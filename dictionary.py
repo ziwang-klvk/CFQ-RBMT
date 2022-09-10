@@ -1,3 +1,9 @@
+"""
+en2jp dictionary for CFQ dataset
+import dic_en2jp
+"""
+
+
 dic_V = {'direct': '監督しました',
          'produce': 'プロデュースしました',
          'edit': '編集しました',
