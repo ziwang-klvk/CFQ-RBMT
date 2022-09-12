@@ -256,10 +256,48 @@ dic_role = {'actor': '俳優',
             'star': '主演',
             'writer': '作家'}
 
+dic_roleHead = {'actor': '俳優',
+            'child': '子',
+            'cinematographer': '撮影監督',
+            'composer': '作曲家',
+            'designer': 'デザイナー',
+            'director': '監督',
+            'distributor': '配給者',
+            'editor': '編集者',
+            'employee': '被雇用者',
+            'employer': '雇用主',
+            'founder': '創設者',
+            'parent': '親',
+            'prequel': '前日譚',
+            'producer': 'プロデューサ',
+            'sequel': '続編',
+            'sibling': '兄弟姉妹',
+            'spouse': '配偶者',
+            'star': '主演',
+            'writer': '作家'}
+
 dic_of = {'of': 'の'}
 dic_Ps = {"'s": "の"}
 
 dic_commonNoun = {'actor': '俳優',
+                  'character': 'キャラクター',
+                  'cinematographer': '撮影監督',
+                  'company': '会社',
+                  'composer': '作曲家',
+                  'designer': 'デザイナー',
+                  'director': '監督',
+                  'distributor': '配給者',
+                  'editor': '編集者',
+                  'employee': '被雇用者',
+                  'film': '映画',
+                  'founder': '創設者',
+                  'person': '人',
+                  'producer': 'プロデューサ',
+                  'screenwriter': '脚本家',
+                  'star': '主演',
+                  'writer': '作家'}
+
+dic_commonNounHead = {'actor': '俳優',
                   'character': 'キャラクター',
                   'cinematographer': '撮影監督',
                   'company': '会社',
@@ -314,7 +352,7 @@ dic_Cnt = {'country': '国'}
 dic_nat = {'nationality': '国籍'}
 
 dic_conjN = {'and': 'と'}
-dic_conj = {'and': ['、', '、そして']}
+dic_conj = {'and': 'そして'}
 dic_punctN = {',': '、'}
 dic_punct = {',': '、'}
 
@@ -324,8 +362,10 @@ dic_NPQ = {'What': '何', 'Who': '誰'}
 dic_en2jp = {'V': dic_V,
              'det': dic_det,
              'role': dic_role,
+             'roleHead': dic_roleHead,
              'of': dic_of,
              'commonNoun': dic_commonNoun,
+             'commonNounHead': dic_commonNounHead,
              'pS': dic_Ps,
              'AdjNa': dic_AdjNa,
              'F': dic_F,
