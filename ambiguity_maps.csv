@@ -1,0 +1,644 @@
+Who was influenced by a film director and influenced a cinematographer that directed M3 and wrote M2
+, {'誰が映画監督に影響され、M3を監督し、M2を書いた撮影監督を影響しましたか'}
+Who was influenced by a costume designer that directed M3 and was influenced by M1
+, {'誰がM3を監督し、M1に影響された衣裳デザイナーに影響されましたか'}
+Who influenced a film producer that edited M3 and influenced M1
+, {'誰がM3を編集し、M1を影響した映画プロデューサーを影響しましたか'}
+Who was influenced by a cinematographer employed by M6 and M7 and influenced by M1 , M2 , M3 , and M4
+, {'誰がM6とM7に雇用された撮影監督に影響され、M1、M2、M3とM4に影響されましたか'}
+Did M2 star M1 's composer and star and star M0 's star , producer , and director
+, {'M2はM1の作曲家と主演を主演させ、M0の主演、プロデューサーと監督を主演させましたか'}
+Was M1 a female person influenced by M3 and influenced by M0 's director and cinematographer
+, {'M1はM3に影響され、M0の監督と撮影監督に影響された女性の人でしたか'}
+Did M2 employ a composer whose country of nationality employed M1 and employ M3
+, {'M2は国籍国がM1を雇用した作曲家を雇用し、M3を雇用しましたか'}
+Did M5 found a production company whose founder was influenced by M1 , M2 , and M3 and was influenced by M4
+, {'M5は創設者がM1、M2とM3に影響され、M4に影響された制作会社を創設しましたか'}
+Were M1 and M4 edited by M2 , directed by M0 's sequel 's editor and star , and edited by M3
+, {'M1とM4はM2に編集され、M0の続編の編集者と主演に監督され、M3に編集されましたか'}
+Was M2 written by M3 , directed by M1 's composer and star , and executive produced by M0 's sibling
+, {'M2はM3に書かれ、M1の作曲家と主演に監督され、M0の兄弟姉妹にエグゼクティブプロデュースされましたか'}
+Was a prequel of M0 edited by M2 's editor and star and executive produced by M1
+, {'M0のある前日譚はM2の編集者と主演に編集され、M1にエグゼクティブプロデュースされましたか'}
+Which sibling of M0 influenced a film editor that executive produced M5 and was influenced by M1 , M2 , and M3
+, {'M0のどの兄弟姉妹がM5をエグゼクティブプロデュースした映画編集者を影響し、M1、M2とM3に影響されましたか'}
+What was a production company that employed M2 's cinematographer and star and was founded by M1
+, {'M2の撮影監督と主演を雇用し、M1に創設されたある制作会社は何でしたか'}
+Who married a film director that founded M4 , married M2 , and influenced M1
+, {'誰がM4を創設し、M2を結婚し、M1を影響した映画監督を結婚しましたか'}
+Did M3 and M4 produce and distribute a film that was directed by M2 and was edited by M1
+, {'M3とM4はM2に監督され、M1に編集された映画をプロデュースし、配給しましたか'}
+Did M1 employ M0 's costume designer and star and employ M2
+, {'M1はM0の衣裳デザイナーと主演を雇用し、M2を雇用しましたか'}
+Who married a composer that founded M3 and was employed by M2
+, {'誰がM3を創設し、M2に雇用された作曲家を結婚しましたか'}
+Did M4 star a actor that founded M3 and was employed by M1 and M2
+, {'M4はM3を創設し、M1とM2に雇用された俳優を主演させましたか'}
+Who directed a film whose executive producer influenced M3 and edited M1
+, {'誰がエグゼクティブプロデューサーがM3を影響し、M1を編集した映画を監督しましたか'}
+What film was executive produced and written by a film producer employed by M2 and employed by M3 's employer
+, {'どの映画がM2に雇用され、M3の雇用主に雇用された映画プロデューサーにエグゼクティブプロデュースされ、書かれましたか'}
+Was M3 produced by a cinematographer that M1 and M2 were edited by and starred and distributed by M4
+, {'M3はM1とM2を編集し、主演した撮影監督にプロデュースされ、M4に配給されましたか'}
+Was M3 directed by a male person that M1 influenced and was influenced by and written by M4
+, {'M3はM1が影響し、影響された男性の人に監督され、M4に書かれましたか'}
+Was M2 a actor that influenced a film director 's spouse and was influenced by M1 's executive producer and star
+, {'M2は映画監督の配偶者を影響し、M1のエグゼクティブプロデューサーと主演に影響された俳優でしたか'}
+What was written by M0 , directed by M3 's executive producer and star , and edited by M1 and M2
+, {'何がM0に書かれ、M3のエグゼクティブプロデューサーと主演に監督され、M1とM2に編集されましたか'}
+Was M3 produced , executive produced , and written by a film director influenced by M1 and influenced by M2
+, {'M3はM1に影響され、M2に影響された映画監督にプロデュースされ、エグゼクティブプロデュースされ、書かれましたか'}
+What was produced by a composer that M3 starred and was executive produced by and written by M0 and M1
+, {'何がM3が主演させ、エグゼクティブプロデュースされた作曲家にプロデュースされ、M0とM1に書かれましたか'}
+Did M2 employ a cinematographer that executive produced M1 and employ M3 , M4 , and M5
+, {'M2はM1をエグゼクティブプロデュースした撮影監督を雇用し、M3、M4とM5を雇用しましたか'}
+Was M1 a film written by and executive produced by M0 's founder and employee
+, {'M1はM0の創設者と被雇用者に書かれ、エグゼクティブプロデュースされた映画でしたか'}
+Was M3 founded by a composer employed by M1 and employed by M2 and founded by M4
+, {'M3はM1に雇用され、M2に雇用された作曲家に創設され、M4に創設されましたか'}
+Was M2 produced by a film 's executive producer and star and edited by M1 's writer and composer
+, {'M2は映画のエグゼクティブプロデューサーと主演にプロデュースされ、M1の作家と作曲家に編集されましたか'}
+Which film edited by and written by a composer was executive produced and edited by M1
+, {'作曲家に編集され、書かれたどの映画がM1にエグゼクティブプロデュースされ、編集されましたか'}
+Did M2 star a actor that founded M1 and star M3
+, {'M2はM1を創設した俳優を主演させ、M3を主演させましたか'}
+Did M7 star a French person that directed M2 , M3 , M4 , and M5 and directed M6
+, {'M7はM2、M3、M4とM5を監督したフランスの人を主演させ、M6を監督しましたか'}
+Was M2 a costume designer whose employer was founded by M0 and employed M1 's employee and founder
+, {'M2は雇用主がM0に創設され、M1の被雇用者と創設者を雇用した衣裳デザイナーでしたか'}
+What was executive produced by a male person influenced by M3 and M4 and directed by M0 and M1
+, {'何がM3とM4に影響された男性の人にエグゼクティブプロデュースされ、M0とM1に監督されましたか'}
+What was produced by a Swedish person that M2 was written by and starred and directed by M0
+, {'何がM2を書き、主演したスウェーデンの人にプロデュースされ、M0に監督されましたか'}
+Did M3 and M4 marry a person that founded M1 and founded M2
+, {'M3とM4はM1を創設し、M2を創設した人を結婚しましたか'}
+What company employed M2 's director and star and was founded by a film producer
+, {'どの会社がM2の監督と主演を雇用し、映画プロデューサーに創設されましたか'}
+Did M3 marry a cinematographer that married M2 and influenced M1
+, {'M3はM2を結婚し、M1を影響した撮影監督を結婚しましたか'}
+What was executive produced by M0 's writer and star and executive produced by a costume designer and writer of M1
+, {'何がM0の作家と主演にエグゼクティブプロデュースされ、M1の衣裳デザイナーと作家にエグゼクティブプロデュースされましたか'}
+Which film executive produced and produced by a composer was executive produced by and edited by M1
+, {'作曲家にエグゼクティブプロデュースされ、プロデュースされたどの映画がM1にエグゼクティブプロデュースされ、編集されましたか'}
+Did M1 star M2 , M3 , and M4 , star M0 's producer and star , and star M5
+, {'M1はM2、M3とM4を主演させ、M0のプロデューサーと主演を主演させ、M5を主演させましたか'}
+Were M2 and M4 executive produced by a film producer that M1 was directed by and starred and written by M3
+, {'M2とM4はM1を監督し、主演した映画プロデューサーにエグゼクティブプロデュースされ、M3に書かれましたか'}
+Did M3 marry a costume designer that married M1 and married M2
+, {'M3はM1を結婚し、M2を結婚した衣裳デザイナーを結婚しましたか'}
+What was directed by a actor influenced by M1 and influenced by M2 's female star
+, {'何がM1に影響され、M2の女性の主演に影響された俳優に監督されましたか'}
+Was M3 written by a actor influenced by M1 and influenced by M2 and executive produced by M4
+, {'M3はM1に影響され、M2に影響された俳優に書かれ、M4にエグゼクティブプロデュースされましたか'}
+Were M5 and M6 influenced by a film director employed by M1 , M2 , and M3 and employed by M4
+, {'M5とM6はM1、M2とM3に雇用された映画監督に影響され、M4に雇用されましたか'}
+Did M3 , M4 , and M5 found a production company whose employee executive produced M2 's sequel and executive produced M1
+, {'M3、M4とM5は被雇用者がM2の続編をエグゼクティブプロデュースし、M1をエグゼクティブプロデュースした制作会社を創設しましたか'}
+Did M2 direct a film that starred M1 and write M3 , M4 , M5 , M6 , and M7
+, {'M2はM1を主演した映画を監督し、M3、M4、M5、M6とM7を書きましたか'}
+Which film director was influenced by M4 's editor and star and influenced by M1 , M2 , and M3
+, {'どの映画監督がM4の編集者と主演に影響され、M1、M2とM3に影響されましたか'}
+What was written by a British film producer that was employed by M3 and produced by M0 and M1
+, {'何がM3に雇用されたイギリスの映画プロデューサーに書かれ、M0とM1にプロデュースされましたか'}
+What was edited by M0 , directed by M2 's writer and star , and directed by M1
+, {'何がM0に編集され、M2の作家と主演に監督され、M1に監督されましたか'}
+Were M2 and M4 produced by a production company that M1 was distributed by and produced by and distributed by M3
+, {'M2とM4はM1を配給し、プロデュースした制作会社にプロデュースされ、M3に配給されましたか'}
+What was directed by a film director that M2 was influenced by and influenced and written by M0
+, {'何がM2を影響し、影響された映画監督に監督され、M0に書かれましたか'}
+Did M0 's sibling influence a film director that produced and directed M3 and influence M1 and M2
+, {'M0の兄弟姉妹はM3をプロデュースし、監督した映画監督を影響し、M1とM2を影響しましたか'}
+What was directed by a female person that M2 was directed by and executive produced by and directed by M0
+, {'何がM2を監督し、エグゼクティブプロデュースした女性の人に監督され、M0に監督されましたか'}
+Was M2 produced by a person that M1 married and influenced and distributed by M3
+, {'M2はM1が結婚し、影響した人にプロデュースされ、M3に配給されましたか'}
+Who directed a film whose cinematographer directed M4 , directed M1 , and directed M2 's prequel
+, {'誰が撮影監督がM4を監督し、M1を監督し、M2の前日譚を監督した映画を監督しましたか'}
+What was directed by a composer employed by M3 and edited by M0 and M1
+, {'何がM3に雇用された作曲家に監督され、M0とM1に編集されましたか'}
+Did M3 and M4 acquire a company whose employee was influenced by a composer of M2 and married M1
+, {'M3とM4は被雇用者がM2の作曲家に影響され、M1を結婚した会社を買収しましたか'}
+Was M0 's male founder influenced by M2 's writer and star and influenced by a cinematographer
+, {'M0の男性の創設者はM2の作家と主演に影響され、撮影監督に影響されましたか'}
+Did M5 and M6 executive produce a film that was executive produced by M3 and M4 and starred M1 and M2
+, {'M5とM6はM3とM4にエグゼクティブプロデュースされ、M1とM2を主演した映画をエグゼクティブプロデュースしましたか'}
+What was produced by a production company whose founder was employed by M3 , executive produced by M0 , and directed by M1
+, {'何が創設者がM3に雇用された制作会社にプロデュースされ、M0にエグゼクティブプロデュースされ、M1に監督されましたか'}
+Did M5 employ a film editor that influenced M1 , M2 , M3 , and M4 and employ M6
+, {'M5はM1、M2、M3とM4を影響した映画編集者を雇用し、M6を雇用しましたか'}
+Which person was influenced by a film editor that executive produced M5 and M6 and married M1 , M2 , and M3
+, {'どの人がM5とM6をエグゼクティブプロデュースし、M1、M2とM3を結婚した映画編集者に影響されましたか'}
+Did M2 and M4 employ a film editor that M1 employed and was founded by and employ M3
+, {'M2とM4はM1が雇用し、創設された映画編集者を雇用し、M3を雇用しましたか'}
+Did M4 executive produce and direct a film that was edited by M2 and M3 and starred M1
+, {'M4はM2とM3に編集され、M1を主演した映画をエグゼクティブプロデュースし、監督しましたか'}
+Who was influenced by a film editor that directed and wrote M3 and married M1
+, {'誰がM3を監督し、書き、M1を結婚した映画編集者に影響されましたか'}
+Who was influenced by a film producer whose spouse wrote M3 and M4 and married M1
+, {'誰が配偶者がM3とM4を書き、M1を結婚した映画プロデューサーに影響されましたか'}
+Were M3 and M5 founded by a film producer employed by M1 and employed by M2 and founded by M4
+, {'M3とM5はM1に雇用され、M2に雇用された映画プロデューサーに創設され、M4に創設されましたか'}
+What was directed by a composer that M3 was written by and was directed by and written by M0 and M1
+, {'何がM3を書き、監督した作曲家に監督され、M0とM1に書かれましたか'}
+Was M7 employed by a company acquired by M1 , M2 , and M3 and acquired by M4 , M5 , and M6
+, {'M7はM1、M2とM3に買収され、M4、M5とM6に買収された会社に雇用されましたか'}
+Were M3 and M5 edited by a person that was influenced by M1 and M2 and directed by M4
+, {'M3とM5はM1とM2に影響された人に編集され、M4に監督されましたか'}
+Was M3 produced by a actor influenced by M1 and M2 and directed by M4 and M5
+, {'M3はM1とM2に影響された俳優にプロデュースされ、M4とM5に監督されましたか'}
+Was M0 's prequel edited by M2 's editor and star and directed by M1
+, {'M0の前日譚はM2の編集者と主演に編集され、M1に監督されましたか'}
+Was M1 distributed by M2 and M3 , produced by M0 's costume designer and star , and produced by M4
+, {'M1はM2とM3に配給され、M0の衣裳デザイナーと主演にプロデュースされ、M4にプロデュースされましたか'}
+Did M1 marry M2 , marry M0 's editor and star , and marry M3
+, {'M1はM2を結婚し、M0の編集者と主演を結婚し、M3を結婚しましたか'}
+What was founded by a film director whose spouse was employed by M1 and M2 and founded M3
+, {'何が配偶者がM1とM2に雇用され、M3を創設した映画監督に創設されましたか'}
+Who produced a film that was executive produced by M3 and starred M2
+, {'誰がM3にエグゼクティブプロデュースされ、M2を主演させた映画をプロデュースしましたか'}
+Was M3 employed by a production company acquired by M1 and M2 and employed by M4 and M5
+, {'M3はM1とM2に買収された制作会社に雇用され、M4とM5に雇用されましたか'}
+Did M5 and M6 edit a film that was executive produced by M1 , M2 , and M3 and was written by M4
+, {'M5とM6はM1、M2とM3にエグゼクティブプロデュースされ、M4に書かれた映画を編集しましたか'}
+What film was written by , executive produced by , and directed by a film director employed by M2
+, {'どの映画がM2に雇用された映画監督に書かれ、エグゼクティブプロデュースされ、監督されましたか'}
+What was executive produced by a composer that M3 was directed by and edited by and executive produced by M0 and M1
+, {'何がM3を監督し、編集した作曲家にエグゼクティブプロデュースされ、M0とM1にエグゼクティブプロデュースされましたか'}
+Was M4 executive produced and edited by a film editor that influenced M1 and M2 and was influenced by M3
+, {'M4はM1とM2を影響し、M3に影響された映画編集者にエグゼクティブプロデュースされ、編集されましたか'}
+Were M3 , M4 , and M5 written by M0 's editor and star and edited by M2 's male director
+, {'M3、M4とM5はM0の編集者と主演に書かれ、M2の男性の監督に編集されましたか'}
+Did M2 and M4 star a film producer that edited M1 and star M3
+, {'M2とM4はM1を編集した映画プロデューサーを主演させ、M3を主演させましたか'}
+What was executive produced by a person that M1 was written by and starred and executive produced by M2 's employee
+, {'何がM1を書き、主演した人にエグゼクティブプロデュースされ、M2の被雇用者にエグゼクティブプロデュースされましたか'}
+Who was influenced by a Italian actor that wrote M3 and M4 and was influenced by M1 's employee
+, {'誰がM3とM4を書いたイタリアの俳優に影響され、M1の被雇用者に影響されましたか'}
+Were M4 and M5 employed by a company founded by M1 and founded by M2 and M3
+, {'M4とM5はM1に創設され、M2とM3に創設された会社に雇用されましたか'}
+Were M1 and M3 produced by a film director that M0 was executive produced by and directed by and edited by M2
+, {'M1とM3はM0をエグゼクティブプロデュースし、監督した映画監督にプロデュースされ、M2に編集されましたか'}
+Was M3 produced by M4 and written by a film producer employed by a production company and employed by M1
+, {'M3はM4にプロデュースされ、制作会社に雇用され、M1に雇用された映画プロデューサーに書かれましたか'}
+Was M2 written by a film editor that M1 was directed by and starred and edited by M3 and M4
+, {'M2はM1を監督し、主演した映画編集者に書かれ、M3とM4に編集されましたか'}
+Who influenced a person that directed M1 , M2 , and M3 and directed M4
+, {'誰がM1、M2とM3を監督した人を影響し、M4を監督しましたか'}
+Who was influenced by a composer influenced by M3 and influenced by M4 and M5 and influenced by M1
+, {'誰がM3に影響され、M4とM5に影響された作曲家に影響され、M1に影響されましたか'}
+Who was employed by a company whose founder and employee married M3 , M4 , and M5 and founded M1
+, {'誰が創設者と被雇用者がM3、M4とM5を結婚し、M1を創設した会社に雇用されましたか'}
+Were M3 and M4 written by a composer influenced by M1 and influenced by M2
+, {'M3とM4はM1に影響され、M2に影響された作曲家に書かれましたか'}
+Who directed a film whose costume designer executive produced M3 and directed M4 and edited M1
+, {'誰が衣裳デザイナーがM3をエグゼクティブプロデュースし、M4を監督した映画を監督し、M1を編集しましたか'}
+Was a film edited by and executive produced by a film producer written by M1 and written by M2
+, {'映画プロデューサーに編集され、エグゼクティブプロデュースされたある映画はM1に書かれ、M2に書かれましたか'}
+Did M3 employ M2 's costume designer and star and employ a star of M0 and M1
+, {'M3はM2の衣裳デザイナーを雇用し、M0とM1の主演を主演させ、雇用しましたか': 5, 'M3はM2の衣裳デザイナーと主演を雇用し、M0とM1の主演を雇用しましたか': 5}
+Were M3 and M6 founded by a cinematographer that was employed by M1 and M2 and founded by M4 and M5
+, {'M3とM6はM1とM2に雇用され、M4とM5に創設された撮影監督に創設されましたか': 10, 'M3とM6はM1とM2に雇用された撮影監督に創設され、M4とM5に創設されましたか': 10}
+What was executive produced by M2 's producer , executive produced by M3 's composer and star , and written by M0 and M1
+, {'何がM2のプロデューサーにエグゼクティブプロデュースされ、M3の作曲家と主演にエグゼクティブプロデュースされ、M0とM1に書かれましたか': 9, '何がM2のプロデューサーにエグゼクティブプロデュースされ、M3の作曲家にエグゼクティブプロデュースされ、M0とM1に主演し、書かれましたか': 9}
+What was executive produced by a film producer employed by M4 and edited by M0 , M1 , and M2
+, {'何がM4に雇用され、M0、M1とM2に編集された映画プロデューサーにエグゼクティブプロデュースされましたか': 10, '何がM4に雇用された映画プロデューサーにエグゼクティブプロデュースされ、M0、M1とM2に編集されましたか': 10}
+Which film was executive produced by a film 's cinematographer and star and executive produced by M1
+, {'どの映画が映画の撮影監督にエグゼクティブプロデュースされ、M1を主演させ、エグゼクティブプロデュースされましたか': 6, 'どの映画が映画の撮影監督と主演にエグゼクティブプロデュースされ、M1にエグゼクティブプロデュースされましたか': 6, 'どの映画が映画の撮影監督にエグゼクティブプロデュースされ、M1に主演し、エグゼクティブプロデュースされましたか': 6}
+Was M2 founded by a film editor that was employed by M1 and founded by M3
+, {'M2はM1に雇用され、M3に創設された映画編集者に創設されましたか': 10, 'M2はM1に雇用された映画編集者に創設され、M3に創設されましたか': 10}
+Did M2 and M3 employ M0 's editor and star and employ a actor
+, {'M2とM3はM0の編集者を雇用し、俳優を主演させ、雇用しましたか': 3, 'M2とM3はM0の編集者と主演を雇用し、俳優を雇用しましたか': 3}
+What was distributed by M0 , produced by a film 's executive producer and star , and distributed by M1
+, {'何がM0に配給され、映画のエグゼクティブプロデューサーと主演にプロデュースされ、M1に配給されましたか': 9, '何がM0に配給され、映画のエグゼクティブプロデューサーにプロデュースされ、M1に主演し、配給されましたか': 9}
+Which composer was influenced by M1 and M2 , influenced by M3 , and influenced by a film director influenced by M5
+, {'どの作曲家がM1とM2に影響され、M3に影響され、M5に影響された映画監督に影響されましたか': 12, 'M1とM2に影響され、M3に影響され、映画監督に影響されたどの作曲家がM5に影響されましたか': 12}
+Was M2 produced by a film editor whose spouse was employed by M1 and distributed by M3
+, {'M2は配偶者がM1に雇用され、M3に配給された映画編集者にプロデュースされましたか': 10, 'M2は配偶者がM1に雇用された映画編集者にプロデュースされ、M3に配給されましたか': 10}
+What film director influenced by M1 and influenced by a person that founded M4 and M5 produced M2
+, {'M4とM5を創設したM1に影響され、人に影響されたどの映画監督がM2をプロデュースしましたか': 10, 'M1に影響され、M4とM5を創設した人に影響されたどの映画監督がM2をプロデュースしましたか': 10}
+Who founded a production company whose founder edited M3 and M4 and founded M1
+, {'誰が創設者がM3とM4を編集した制作会社を創設し、M1を創設しましたか': 6, '誰が創設者がM3とM4を編集し、M1を創設した制作会社を創設しましたか': 6}
+What film executive produced , directed , edited , written , and produced by a film director was written by M1
+, {'どの映画がM1に書かれた映画監督をエグゼクティブプロデュースし、監督し、編集し、書き、プロデュースされましたか': 8, '映画監督にエグゼクティブプロデュースされ、監督され、編集され、書かれ、プロデュースされたどの映画がM1に書かれましたか': 8, 'どの映画がM1に書かれた映画監督にエグゼクティブプロデュースされ、監督され、編集され、書かれ、プロデュースされましたか': 8}
+Was M3 produced by a film producer influenced by M1 and influenced by M2 and executive produced by M4
+, {'M3はM1に影響され、M2に影響され、M4にエグゼクティブプロデュースされた映画プロデューサーにプロデュースされましたか': 10, 'M3はM1に影響され、M2に影響された映画プロデューサーにプロデュースされ、M4にエグゼクティブプロデュースされましたか': 10, 'M3はM1に影響された映画プロデューサーにプロデュースされ、M2に影響され、M4にエグゼクティブプロデュースされましたか': 10}
+What was founded by a film producer and founded by a composer that married M3 and was influenced by M2
+, {'何が映画プロデューサーに創設され、M3を結婚し、M2に影響された作曲家に創設されましたか': 12, '何が映画プロデューサーに創設され、M3を結婚した作曲家に創設され、M2に影響されましたか': 12}
+Did M4 acquire a production company that was founded by M1 and employed a composer of M2 and M3
+, {'M4はM1に創設された制作会社を買収し、M2とM3の作曲家を雇用しましたか': 10, 'M4はM1に創設され、M2とM3の作曲家を雇用した制作会社を買収しましたか': 10}
+What was directed by M0 and directed by a film editor that influenced M2 and was influenced by M3
+, {'何がM0に監督され、M2を影響し、M3に影響された映画編集者に監督されましたか': 12, '何がM0に監督され、M2を影響した映画編集者に監督され、M3に影響されましたか': 12}
+Did a actor influenced by M1 and M2 influence M3 's executive producer and star and marry a film director
+, {'M1とM2に影響されたある俳優はM3のエグゼクティブプロデューサーを影響し、映画監督を主演させ、結婚しましたか': 6, 'M1とM2に影響されたある俳優はM3のエグゼクティブプロデューサーと主演を影響し、映画監督を結婚しましたか': 6}
+What was acquired by a company that was founded by M2 , acquired by a company , and acquired by M0
+, {'何がM2に創設され、会社に買収され、M0に買収された会社に買収されましたか': 14, '何がM2に創設された会社に買収され、会社に買収され、M0に買収されましたか': 14}
+Was M2 a spouse of a film editor whose spouse influenced M1 's composer and director
+, {'M2は配偶者がM1の作曲家と監督を影響した映画編集者の配偶者でしたか': 6, 'M2は配偶者がM1の作曲家を影響した映画編集者と監督の配偶者でしたか': 6}
+What was founded by a actor that M2 and M3 starred and were executive produced by and founded by M0
+, {'何がM2とM3が主演した俳優に創設され、M0にエグゼクティブプロデュースされ、創設されましたか': 11, '何がM2とM3が主演させ、エグゼクティブプロデュースされた俳優に創設され、M0に創設されましたか': 11}
+Did M4 star a composer that married M1 and M2 and married M3
+, {'M4はM1とM2を結婚した作曲家を主演させ、M3を結婚しましたか': 6, 'M4はM1とM2を結婚し、M3を結婚した作曲家を主演させましたか': 6}
+What British spouse of M3 influenced a film director that directed M4 and influenced M0 and M1
+, {'M3のどのイギリスの配偶者がM4を監督した映画監督を影響し、M0とM1を影響しましたか': 8, 'M3のどのイギリスの配偶者がM4を監督し、M0とM1を影響した映画監督を影響しましたか': 8}
+Were M4 and M5 produced by a film editor influenced by M1 and influenced by M2 and M3
+, {'M4とM5はM1に影響され、M2とM3に影響された映画編集者にプロデュースされましたか': 8, 'M4とM5はM1に影響された映画編集者にプロデュースされ、M2とM3に影響されましたか': 8}
+Who was influenced by a film director that M3 influenced and married and married M1
+, {'誰がM3が影響した映画監督に影響され、M1を結婚し、結婚しましたか': 8, '誰がM3が影響し、結婚した映画監督に影響され、M1を結婚しましたか': 8}
+Did M1 employ M0 's costume designer and star and employ M2 , M3 , M4 , and M5
+, {'M1はM0の衣裳デザイナーを雇用し、M2、M3、M4とM5を主演させ、雇用しましたか': 4, 'M1はM0の衣裳デザイナーと主演を雇用し、M2、M3、M4とM5を雇用しましたか': 4}
+Was M1 edited by M0 's editor and star and edited by M2 , M3 , M4 , and M5
+, {'M1はM0の編集者と主演に編集され、M2、M3、M4とM5に編集されましたか': 6, 'M1はM0の編集者に編集され、M2、M3、M4とM5に主演し、編集されましたか': 6}
+What was founded by a film 's cinematographer and star and founded by M0
+, {'何が映画の撮影監督に創設され、M0を主演させ、創設されましたか': 6, '何が映画の撮影監督と主演に創設され、M0に創設されましたか': 6, '何が映画の撮影監督に創設され、M0に主演し、創設されましたか': 6}
+What film executive produced by and directed by a film editor was written by and edited by M1 and M2
+, {'どの映画がM1とM2に書かれ、編集された映画編集者にエグゼクティブプロデュースされ、監督されましたか': 9, '映画編集者にエグゼクティブプロデュースされ、監督されたどの映画がM1とM2に書かれ、編集されましたか': 9}
+What film was edited by a actor employed by M2
+, {'どの映画がM2に雇用された俳優に編集されましたか': 7, '俳優に編集されたどの映画がM2に雇用されましたか': 7}
+Did M3 distribute a film that was executive produced by M2 's director and was written by M1
+, {'M3はM2の監督にエグゼクティブプロデュースされ、M1に書かれた映画を配給しましたか': 10, 'M3はM2の監督にエグゼクティブプロデュースされた映画を配給し、M1に書かれましたか': 10}
+What was produced by a costume designer that M3 was directed by and executive produced by and produced by M0 and M1
+, {'何がM3を監督した衣裳デザイナーにプロデュースされ、M0とM1にエグゼクティブプロデュースされ、プロデュースされましたか': 12, '何がM3を監督し、エグゼクティブプロデュースした衣裳デザイナーにプロデュースされ、M0とM1にプロデュースされましたか': 12}
+Did M2 marry a composer that edited M1 and marry M3
+, {'M2はM1を編集した作曲家を結婚し、M3を結婚しましたか': 6, 'M2はM1を編集し、M3を結婚した作曲家を結婚しましたか': 6}
+Were M3 and M4 executive produced by a person whose employer was founded by M1 and was founded by a actor
+, {'M3とM4は雇用主がM1に創設され、俳優に創設された人にエグゼクティブプロデュースされましたか': 11, 'M3とM4は雇用主がM1に創設された人にエグゼクティブプロデュースされ、俳優に創設されましたか': 11}
+Did M3 star a person that played M1 and played M2
+, {'M3はM1を演じた人を主演させ、M2を演じましたか': 6, 'M3はM1を演じ、M2を演じた人を主演させましたか': 6}
+Did M3 star a screenwriter that directed M1 and M2 and star M4 and M5
+, {'M3はM1とM2を監督した脚本家を主演させ、M4とM5を主演させましたか': 6, 'M3はM1とM2を監督し、M4とM5を主演させた脚本家を主演させましたか': 6}
+What was founded by a female person employed by M3 and founded by M1 's American star
+, {'何がM3に雇用され、M1のアメリカの主演に創設された女性の人に創設されましたか': 9, '何がM3に雇用された女性の人に創設され、M1のアメリカの主演に創設されましたか': 9}
+Who was influenced by M1 and influenced a film director that was influenced by M3 and was influenced by M4
+, {'誰がM1に影響され、M3に影響され、M4に影響された映画監督を影響しましたか': 13, '誰がM1に影響され、M3に影響された映画監督を影響し、M4に影響されましたか': 13}
+Who was influenced by a film editor whose spouse edited M3 , M4 , and M5 and was influenced by M1
+, {'誰が配偶者がM3、M4とM5を編集し、M1に影響された映画編集者に影響されましたか': 11, '誰が配偶者がM3、M4とM5を編集した映画編集者に影響され、M1に影響されましたか': 11}
+Was M1 a actor that founded M0 's distributor and producer
+, {'M1はM0の配給者とプロデューサーを創設した俳優でしたか': 4, 'M1はM0の配給者を創設した俳優とプロデューサーでしたか': 4}
+Who influenced a composer that directed M3 and M4 and was influenced by M1
+, {'誰がM3とM4を監督し、M1に影響された作曲家を影響しましたか': 8, '誰がM3とM4を監督した作曲家を影響し、M1に影響されましたか': 8}
+Who was influenced by M1 , influenced by M3 's composer and star , and influenced by M2
+, {'誰がM1に影響され、M3の作曲家と主演に影響され、M2に影響されましたか': 9, '誰がM1に影響され、M3の作曲家に影響され、M2に主演し、影響されましたか': 9}
+Did M2 and M3 produce a film that starred M1 's writer , director , and producer
+, {'M2とM3はM1の作家、監督とプロデューサーを主演した映画をプロデュースしましたか': 6, 'M2とM3はM1の作家を主演した映画、監督とプロデューサーをプロデュースしましたか': 6}
+Did M3 , M4 , M5 , and M6 employ a person that was employed by M1 and was employed by M2
+, {'M3、M4、M5とM6はM1に雇用され、M2に雇用された人を雇用しましたか': 11, 'M3、M4、M5とM6はM1に雇用された人を雇用し、M2に雇用されましたか': 11}
+What was executive produced by M0 , written by M2 's cinematographer and star , and written by M1
+, {'何がM0にエグゼクティブプロデュースされ、M2の撮影監督と主演に書かれ、M1に書かれましたか': 9, '何がM0にエグゼクティブプロデュースされ、M2の撮影監督に書かれ、M1に主演し、書かれましたか': 9}
+Who married M1 and M2 and was influenced by a cinematographer that influenced M4 and influenced M5
+, {'誰がM1とM2を結婚し、M4を影響した撮影監督に影響され、M5を影響しましたか': 9, '誰がM1とM2を結婚し、M4を影響し、M5を影響した撮影監督に影響されましたか': 9}
+What actor founded a production company that acquired M5 , founded M1 and M2 , and founded M3
+, {'どの俳優がM5を買収した制作会社を創設し、M1とM2を創設し、M3を創設しましたか': 8, 'どの俳優がM5を買収し、M1とM2を創設し、M3を創設した制作会社を創設しましたか': 8}
+Were M5 and M6 founded by a film director employed by M1 , M2 , and M3 and employed by M4
+, {'M5とM6はM1、M2とM3に雇用され、M4に雇用された映画監督に創設されましたか': 9, 'M5とM6はM1、M2とM3に雇用された映画監督に創設され、M4に雇用されましたか': 9}
+Did M2 employ a cinematographer , employ M0 's editor and star , and employ M3
+, {'M2は撮影監督を雇用し、M0の編集者を雇用し、M3を主演させ、雇用しましたか': 5, 'M2は撮影監督を雇用し、M0の編集者と主演を雇用し、M3を雇用しましたか': 5}
+Did M4 , M5 , and M6 influence a person that influenced M1 , married M2 , and married M3
+, {'M4、M5とM6はM1を影響した人を影響し、M2を結婚し、M3を結婚しましたか': 9, 'M4、M5とM6はM1を影響し、M2を結婚し、M3を結婚した人を影響しましたか': 9}
+What was executive produced and written by a film director that influenced a film editor and married M1 and M2
+, {'何が映画編集者を影響した映画監督にエグゼクティブプロデュースされ、書かれ、M1とM2を結婚しましたか': 8, '何が映画編集者を影響し、M1とM2を結婚した映画監督にエグゼクティブプロデュースされ、書かれましたか': 8}
+Were M2 and M3 edited by M1 's director and star and executive produced by M0 's founder and employee
+, {'M2とM3はM1の監督と主演に編集され、M0の創設者と被雇用者にエグゼクティブプロデュースされましたか': 5, 'M2とM3はM1の監督に編集され、M0の創設者と被雇用者に主演し、エグゼクティブプロデュースされましたか': 5}
+Was M1 executive produced by M2 , directed by M0 's producer and star , and written by M3
+, {'M1はM2にエグゼクティブプロデュースされ、M0のプロデューサーと主演に監督され、M3に書かれましたか': 8, 'M1はM2にエグゼクティブプロデュースされ、M0のプロデューサーに監督され、M3に主演し、書かれましたか': 8}
+Were M2 and M4 written by a film editor that M1 starred and was directed by and executive produced by M3
+, {'M2とM4はM1が主演した映画編集者に書かれ、M3に監督され、エグゼクティブプロデュースされましたか': 10, 'M2とM4はM1が主演させ、監督された映画編集者に書かれ、M3にエグゼクティブプロデュースされましたか': 10}
+What was produced by a film editor influenced by M1 and influenced by M2
+, {'何がM1に影響され、M2に影響された映画編集者にプロデュースされましたか': 9, '何がM1に影響された映画編集者にプロデュースされ、M2に影響されましたか': 9}
+Did M5 and M6 employ a film director that was influenced by M1 and was influenced by M2 , M3 , and M4
+, {'M5とM6はM1に影響され、M2、M3とM4に影響された映画監督を雇用しましたか': 11, 'M5とM6はM1に影響された映画監督を雇用し、M2、M3とM4に影響されましたか': 11}
+What was directed by M1 's producer and star and produced by M0
+, {'何がM1のプロデューサーに監督され、M0を主演させ、プロデュースされましたか': 6, '何がM1のプロデューサーと主演に監督され、M0にプロデュースされましたか': 6, '何がM1のプロデューサーに監督され、M0に主演し、プロデュースされましたか': 6}
+Did M3 employ a person that was employed by M1 and was employed by M2
+, {'M3はM1に雇用され、M2に雇用された人を雇用しましたか': 10, 'M3はM1に雇用された人を雇用し、M2に雇用されましたか': 10}
+What was founded by a film editor that was employed by M2 and founded by M0
+, {'何がM2に雇用され、M0に創設された映画編集者に創設されましたか': 11, '何がM2に雇用された映画編集者に創設され、M0に創設されましたか': 11}
+Did M3 , M4 , M5 , and M6 edit a film whose writer was employed by M1 and founded M2
+, {'M3、M4、M5とM6は作家がM1に雇用された映画を編集し、M2を創設しましたか': 9, 'M3、M4、M5とM6は作家がM1に雇用され、M2を創設した映画を編集しましたか': 9}
+Was M1 a film directed by M0 's costume designer , writer , and cinematographer
+, {'M1はM0の衣裳デザイナー、作家と撮影監督に監督された映画でしたか': 5, 'M1はM0の衣裳デザイナーに監督された映画、作家と撮影監督でしたか': 5}
+Which film directed by a screenwriter was directed and written by M1
+, {'どの映画がM1に監督され、書かれた脚本家に監督されましたか': 7, '脚本家に監督されたどの映画がM1に監督され、書かれましたか': 7}
+Did M2 employ a composer that executive produced M1 and employ M3 and M4
+, {'M2はM1をエグゼクティブプロデュースした作曲家を雇用し、M3とM4を雇用しましたか': 6, 'M2はM1をエグゼクティブプロデュースし、M3とM4を雇用した作曲家を雇用しましたか': 6}
+Was a film editor influenced by M3 's cinematographer and star and influenced by M1 and M2
+, {'ある映画編集者はM3の撮影監督と主演に影響され、M1とM2に影響されましたか': 5, 'ある映画編集者はM3の撮影監督に影響され、M1とM2に主演し、影響されましたか': 5}
+What was founded by M0 , founded by M2 's editor and star , and founded by M1
+, {'何がM0に創設され、M2の編集者と主演に創設され、M1に創設されましたか': 9, '何がM0に創設され、M2の編集者に創設され、M1に主演し、創設されましたか': 9}
+Did M4 and M5 edit a film whose writer and cinematographer married M3 and influenced M1 and M2
+, {'M4とM5は作家と撮影監督がM3を結婚した映画を編集し、M1とM2を影響しましたか': 6, 'M4とM5は作家と撮影監督がM3を結婚し、M1とM2を影響した映画を編集しましたか': 6}
+Was M2 produced by a company that M1 was employed by and founded and executive produced by M3 and M4
+, {'M2はM1を雇用し、創設された会社にプロデュースされ、M3とM4にエグゼクティブプロデュースされましたか': 10, 'M2はM1を雇用した会社にプロデュースされ、M3とM4に創設され、エグゼクティブプロデュースされましたか': 10}
+Did M5 and M6 influence a female person that wrote M2 and M3 and edited M1
+, {'M5とM6はM2とM3を書いた女性の人を影響し、M1を編集しましたか': 6, 'M5とM6はM2とM3を書き、M1を編集した女性の人を影響しましたか': 6}
+Was M1 produced by M0 's composer and star and distributed by M2 and M3
+, {'M1はM0の作曲家と主演にプロデュースされ、M2とM3に配給されましたか': 5, 'M1はM0の作曲家にプロデュースされ、M2とM3に主演し、配給されましたか': 5}
+Who married a male person that influenced M2 , M3 , and M4 and was influenced by M1
+, {'誰がM2、M3とM4を影響し、M1に影響された男性の人を結婚しましたか': 9, '誰がM2、M3とM4を影響した男性の人を結婚し、M1に影響されましたか': 9}
+Did M4 star a Spanish film producer that founded M2 and was employed by M1
+, {'M4はM2を創設し、M1に雇用されたスペインの映画プロデューサーを主演させましたか': 8, 'M4はM2を創設したスペインの映画プロデューサーを主演させ、M1に雇用されましたか': 8}
+Was M1 a male French cinematographer that was employed by M0 's producer and distributor
+, {'M1はM0のプロデューサーと配給者に雇用された男性のフランスの撮影監督でしたか': 6, 'M1はM0のプロデューサーに雇用された男性のフランスの撮影監督と配給者でしたか': 6}
+Did M2 star M0 's editor and star and star M1 's employee
+, {'M2はM0の編集者を主演させ、M1の被雇用者を主演させ、主演させましたか': 3, 'M2はM0の編集者と主演を主演させ、M1の被雇用者を主演させましたか': 3}
+Which film distributed by and produced by a cinematographer was produced by M1 and was edited by M2
+, {'どの映画がM1にプロデュースされ、M2に編集された撮影監督に配給され、プロデュースされましたか': 11, '撮影監督に配給され、プロデュースされたどの映画がM1にプロデュースされ、M2に編集されましたか': 11}
+What was edited and executive produced by a film director that edited M0 and directed M1
+, {'何がM0を編集した映画監督に編集され、エグゼクティブプロデュースされ、M1を監督しましたか': 8, '何がM0を編集し、M1を監督した映画監督に編集され、エグゼクティブプロデュースされましたか': 8}
+Did M3 influence M4 and M5 and marry a film director that married M2 and influenced M1
+, {'M3はM4とM5を影響し、M2を結婚した映画監督を結婚し、M1を影響しましたか': 7, 'M3はM4とM5を影響し、M2を結婚し、M1を影響した映画監督を結婚しましたか': 7}
+Was M2 edited by M0 's cinematographer and star and edited by M1 's cinematographer and writer
+, {'M2はM0の撮影監督と主演に編集され、M1の撮影監督と作家に編集されましたか': 5, 'M2はM0の撮影監督に編集され、M1の撮影監督と作家に主演し、編集されましたか': 5}
+Did M4 employ M5 and employ a composer that directed M1 and directed M2 and M3
+, {'M4はM5を雇用し、M1を監督した作曲家を雇用し、M2とM3を監督しましたか': 7, 'M4はM5を雇用し、M1を監督し、M2とM3を監督した作曲家を雇用しましたか': 7}
+Which film executive produced , produced , and edited by a film editor was distributed and produced by M1
+, {'どの映画がM1に配給され、プロデュースされた映画編集者をエグゼクティブプロデュースし、プロデュースし、編集されましたか': 8, '映画編集者にエグゼクティブプロデュースされ、プロデュースされ、編集されたどの映画がM1に配給され、プロデュースされましたか': 8, 'どの映画がM1に配給され、プロデュースされた映画編集者にエグゼクティブプロデュースされ、プロデュースされ、編集されましたか': 8}
+Did M3 influence a film producer that edited a film and edited M1 and marry M4
+, {'M3は映画を編集し、M1を編集した映画プロデューサーを影響し、M4を結婚しましたか': 7, 'M3は映画を編集した映画プロデューサーを影響し、M1を編集し、M4を結婚しましたか': 7, 'M3は映画を編集し、M1を編集し、M4を結婚した映画プロデューサーを影響しましたか': 7}
+Was a film directed by and executive produced by a screenwriter produced by and distributed by M1
+, {'ある映画はM1にプロデュースされ、配給された脚本家に監督され、エグゼクティブプロデュースされましたか': 8, '脚本家に監督され、エグゼクティブプロデュースされたある映画はM1にプロデュースされ、配給されましたか': 8}
+Who influenced a person that married and influenced M2 and influenced M1
+, {'誰がM2を結婚し、影響した人を影響し、M1を影響しましたか': 6, '誰がM2を結婚し、影響し、M1を影響した人を影響しましたか': 6}
+What was executive produced by M1 's prequel 's director and star and executive produced by M0
+, {'何がM1の前日譚の監督にエグゼクティブプロデュースされ、M0を主演させ、エグゼクティブプロデュースされましたか': 6, '何がM1の前日譚の監督と主演にエグゼクティブプロデュースされ、M0にエグゼクティブプロデュースされましたか': 6, '何がM1の前日譚の監督にエグゼクティブプロデュースされ、M0に主演し、エグゼクティブプロデュースされましたか': 6}
+Who married a person that wrote M4 and was influenced by M1 , M2 , and M3
+, {'誰がM4を書き、M1、M2とM3に影響された人を結婚しましたか': 9, '誰がM4を書いた人を結婚し、M1、M2とM3に影響されましたか': 9}
+Did M1 star a film 's writer and star and star M2
+, {'M1は映画の作家を主演させ、M2を主演させ、主演させましたか': 3, 'M1は映画の作家と主演を主演させ、M2を主演させましたか': 3}
+What was distributed by M0 and M1 and produced by a company acquired by M3 and acquired by M4
+, {'何がM0とM1に配給され、M3に買収され、M4に買収された会社にプロデュースされましたか': 11, '何がM0とM1に配給され、M3に買収された会社にプロデュースされ、M4に買収されましたか': 11}
+Did M1 marry M3 , influence M0 's editor and star , and influence M2
+, {'M1はM3を結婚し、M0の編集者を影響し、M2を主演させ、影響しましたか': 5, 'M1はM3を結婚し、M0の編集者と主演を影響し、M2を影響しましたか': 5}
+Were M3 and M4 edited and written by a film director employed by M1 and employed by M2
+, {'M3とM4はM1に雇用され、M2に雇用された映画監督に編集され、書かれましたか': 8, 'M3とM4はM1に雇用された映画監督に編集され、書かれ、M2に雇用されましたか': 8}
+Did M1 influence a film 's sequel 's writer and star and marry M2
+, {'M1は映画の続編の作家を影響し、M2を主演させ、結婚しましたか': 3, 'M1は映画の続編の作家と主演を影響し、M2を結婚しましたか': 3}
+Did a screenwriter executive produce a film that was directed by a actor and starred M2 , M3 , and M4
+, {'ある脚本家は俳優に監督された映画をエグゼクティブプロデュースし、M2、M3とM4を主演させましたか': 9, 'ある脚本家は俳優に監督され、M2、M3とM4を主演した映画をエグゼクティブプロデュースしましたか': 9}
+Did M1 employ a person that a person was influenced by and influenced and employ M2
+, {'M1は人を影響した人を雇用し、M2を影響し、雇用しましたか': 8, 'M1は人を影響し、影響された人を雇用し、M2を雇用しましたか': 8}
+Were M2 and M4 produced by a person that M1 was executive produced by and edited by and distributed by M3
+, {'M2とM4はM1をエグゼクティブプロデュースした人にプロデュースされ、M3に編集され、配給されましたか': 11, 'M2とM4はM1をエグゼクティブプロデュースし、編集した人にプロデュースされ、M3に配給されましたか': 11}
+What was directed by M1 's director and star and executive produced by M0 's employee
+, {'何がM1の監督に監督され、M0の被雇用者を主演させ、エグゼクティブプロデュースされましたか': 6, '何がM1の監督と主演に監督され、M0の被雇用者にエグゼクティブプロデュースされましたか': 6, '何がM1の監督に監督され、M0の被雇用者に主演し、エグゼクティブプロデュースされましたか': 6}
+What was directed by a Italian composer that M2 was written by and starred and edited by M0
+, {'何がM2を書いたイタリアの作曲家に監督され、M0を主演させ、編集されましたか': 11, '何がM2を書き、主演したイタリアの作曲家に監督され、M0に編集されましたか': 11, '何がM2を書いたイタリアの作曲家に監督され、M0に主演し、編集されましたか': 11}
+Was M3 produced by a person that was influenced by M1 and was influenced by M2
+, {'M3はM1に影響され、M2に影響された人にプロデュースされましたか': 11, 'M3はM1に影響された人にプロデュースされ、M2に影響されましたか': 11}
+Who was influenced by M1 , married M3 's director and star , and was influenced by M2
+, {'誰がM1に影響され、M3の監督を結婚し、M2を主演させ、影響されましたか': 9, '誰がM1に影響され、M3の監督と主演を結婚し、M2に影響されましたか': 9}
+Did M0 's spouse influence M1 's editor and star and influence M2 's cinematographer and star
+, {'M0の配偶者はM1の編集者を影響し、M2の撮影監督と主演を主演させ、影響しましたか': 3, 'M0の配偶者はM1の編集者と主演を影響し、M2の撮影監督と主演を影響しましたか': 3}
+Was M1 edited by M2 , edited by M0 's editor and star , and edited by M3
+, {'M1はM2に編集され、M0の編集者と主演に編集され、M3に編集されましたか': 8, 'M1はM2に編集され、M0の編集者に編集され、M3に主演し、編集されましたか': 8}
+Who founded a company whose founder was influenced by M3 and founded M1
+, {'誰が創設者がM3に影響された会社を創設し、M1を創設しましたか': 8, '誰が創設者がM3に影響され、M1を創設した会社を創設しましたか': 8}
+Did M2 , M4 , and M5 distribute a film that M1 edited and wrote and distribute M3
+, {'M2、M4とM5はM1が編集した映画を配給し、M3を書き、配給しましたか': 7, 'M2、M4とM5はM1が編集し、書いた映画を配給し、M3を配給しましたか': 7}
+What was executive produced by a composer , executive produced by M2 's writer and star , and directed by M0
+, {'何が作曲家にエグゼクティブプロデュースされ、M2の作家と主演にエグゼクティブプロデュースされ、M0に監督されましたか': 9, '何が作曲家にエグゼクティブプロデュースされ、M2の作家にエグゼクティブプロデュースされ、M0に主演し、監督されましたか': 9}
+What was executive produced and written by a film producer that was influenced by a film director and influenced M1
+, {'何が映画監督に影響された映画プロデューサーにエグゼクティブプロデュースされ、書かれ、M1を影響しましたか': 10, '何が映画監督に影響され、M1を影響した映画プロデューサーにエグゼクティブプロデュースされ、書かれましたか': 10}
+Did M2 acquire a company that distributed M1 and acquire M3
+, {'M2はM1を配給した会社を買収し、M3を買収しましたか': 6, 'M2はM1を配給し、M3を買収した会社を買収しましたか': 6}
+Did M2 star M3 , M4 , and M5 , star M0 's editor and star , and star a cinematographer
+, {'M2はM3、M4とM5を主演させ、M0の編集者を主演させ、撮影監督を主演させ、主演させましたか': 6, 'M2はM3、M4とM5を主演させ、M0の編集者と主演を主演させ、撮影監督を主演させましたか': 6}
+Were M2 and M4 directed by a person that M1 was executive produced by and starred and written by M3
+, {'M2とM4はM1をエグゼクティブプロデュースし、主演した人に監督され、M3に書かれましたか': 10, 'M2とM4はM1をエグゼクティブプロデュースした人に監督され、M3に主演し、書かれましたか': 10}
+Did M3 employ a person that was influenced by a cinematographer and influenced M1 and employ M4
+, {'M3は撮影監督に影響され、M1を影響した人を雇用し、M4を雇用しましたか': 9, 'M3は撮影監督に影響された人を雇用し、M1を影響し、M4を雇用しましたか': 9, 'M3は撮影監督に影響され、M1を影響し、M4を雇用した人を雇用しましたか': 9}
+Was M1 directed by M0 's producer and star and executive produced by M2 , M3 , M4 , M5 , and M6
+, {'M1はM0のプロデューサーと主演に監督され、M2、M3、M4、M5とM6にエグゼクティブプロデュースされましたか': 6, 'M1はM0のプロデューサーに監督され、M2、M3、M4、M5とM6に主演し、エグゼクティブプロデュースされましたか': 6}
+Were M4 and M6 executive produced by a Japanese male film producer employed by M1 and directed by M5
+, {'M4とM6はM1に雇用され、M5に監督された日本の男性の映画プロデューサーにエグゼクティブプロデュースされましたか': 8, 'M4とM6はM1に雇用された日本の男性の映画プロデューサーにエグゼクティブプロデュースされ、M5に監督されましたか': 8}
+Was M1 a film producer whose employer was founded by M0 's cinematographer and editor
+, {'M1は雇用主がM0の撮影監督と編集者に創設された映画プロデューサーでしたか': 6, 'M1は雇用主がM0の撮影監督に創設された映画プロデューサーと編集者でしたか': 6}
+Who was influenced by a male person whose spouse was employed by M3 and influenced M1
+, {'誰が配偶者がM3に雇用された男性の人に影響され、M1を影響しましたか': 10, '誰が配偶者がM3に雇用され、M1を影響した男性の人に影響されましたか': 10}
+Which production company was founded by a British actor that wrote M4 and was founded by M1 and M2
+, {'どの制作会社がM4を書き、M1とM2に創設されたイギリスの俳優に創設されましたか': 10, 'どの制作会社がM4を書いたイギリスの俳優に創設され、M1とM2に創設されましたか': 10}
+What was produced by a film editor employed by M1 and M2 and employed by M3 and M4
+, {'何がM1とM2に雇用され、M3とM4に雇用された映画編集者にプロデュースされましたか': 9, '何がM1とM2に雇用された映画編集者にプロデュースされ、M3とM4に雇用されましたか': 9}
+What was produced by M3 's sibling , produced by M2 's cinematographer and star , and edited by M0 and M1
+, {'何がM3の兄弟姉妹にプロデュースされ、M2の撮影監督と主演にプロデュースされ、M0とM1に編集されましたか': 9, '何がM3の兄弟姉妹にプロデュースされ、M2の撮影監督にプロデュースされ、M0とM1に主演し、編集されましたか': 9}
+Did M3 and M5 influence a female person that executive produced M1 and influence M4
+, {'M3とM5はM1をエグゼクティブプロデュースした女性の人を影響し、M4を影響しましたか': 6, 'M3とM5はM1をエグゼクティブプロデュースし、M4を影響した女性の人を影響しましたか': 6}
+Did M4 distribute and produce a film whose female producer influenced M1 and married M3
+, {'M4は女性のプロデューサーがM1を影響した映画を配給し、プロデュースし、M3を結婚しましたか': 6, 'M4は女性のプロデューサーがM1を影響し、M3を結婚した映画を配給し、プロデュースしましたか': 6}
+Did M3 produce a film that was edited by M1 and starred a film director and produce M4
+, {'M3はM1に編集され、映画監督を主演した映画をプロデュースし、M4をプロデュースしましたか': 9, 'M3はM1に編集された映画をプロデュースし、映画監督を主演させ、M4をプロデュースしましたか': 9, 'M3はM1に編集され、映画監督を主演させ、M4をプロデュースした映画をプロデュースしましたか': 9}
+What was directed by M1 's costume designer and star and executive produced by M0
+, {'何がM1の衣裳デザイナーに監督され、M0を主演させ、エグゼクティブプロデュースされましたか': 6, '何がM1の衣裳デザイナーと主演に監督され、M0にエグゼクティブプロデュースされましたか': 6, '何がM1の衣裳デザイナーに監督され、M0に主演し、エグゼクティブプロデュースされましたか': 6}
+Were M2 and M4 executive produced by a film producer that M1 was written by and starred and written by M3
+, {'M2とM4はM1を書き、主演した映画プロデューサーにエグゼクティブプロデュースされ、M3に書かれましたか': 10, 'M2とM4はM1を書いた映画プロデューサーにエグゼクティブプロデュースされ、M3に主演し、書かれましたか': 10}
+Were M5 and M6 directed by a person influenced by M1 , M2 , and M3 and influenced by M4
+, {'M5とM6はM1、M2とM3に影響され、M4に影響された人に監督されましたか': 9, 'M5とM6はM1、M2とM3に影響された人に監督され、M4に影響されましたか': 9}
+What did a actor whose employer employed M1 's employee and founder edit and produce
+, {'雇用主がM1の被雇用者と創設者を雇用した俳優が編集し、プロデュースしたのは何でしたか': 5, '雇用主がM1の被雇用者を雇用した俳優と創設者が編集し、プロデュースしたのは何でしたか': 5}
+What was founded by a person that wrote M1 and wrote M2
+, {'何がM1を書いた人に創設され、M2を書きましたか': 8, '何がM1を書き、M2を書いた人に創設されましたか': 8}
+What production company was founded by M1 and founded by a person employed by M3
+, {'どの制作会社がM1に創設され、M3に雇用された人に創設されましたか': 9, 'M1に創設され、人に創設されたどの制作会社がM3に雇用されましたか': 9}
+Was M1 written by M2 and M3 , produced by M0 's costume designer and star , and directed by M4
+, {'M1はM2とM3に書かれ、M0の衣裳デザイナーと主演にプロデュースされ、M4に監督されましたか': 8, 'M1はM2とM3に書かれ、M0の衣裳デザイナーにプロデュースされ、M4に主演し、監督されましたか': 8}
+Did M1 employ M2 , employ M0 's composer and star , and employ M3
+, {'M1はM2を雇用し、M0の作曲家を雇用し、M3を主演させ、雇用しましたか': 5, 'M1はM2を雇用し、M0の作曲家と主演を雇用し、M3を雇用しましたか': 5}
+Was M6 influenced by a film director employed by M1 and employed by M2 , M3 , M4 , and M5
+, {'M6はM1に雇用され、M2、M3、M4とM5に雇用された映画監督に影響されましたか': 9, 'M6はM1に雇用された映画監督に影響され、M2、M3、M4とM5に雇用されましたか': 9}
+Was M2 executive produced by M0 's editor and star and executive produced by M1 's spouse
+, {'M2はM0の編集者と主演にエグゼクティブプロデュースされ、M1の配偶者にエグゼクティブプロデュースされましたか': 5, 'M2はM0の編集者にエグゼクティブプロデュースされ、M1の配偶者に主演し、エグゼクティブプロデュースされましたか': 5}
+Which sequel of a film was written by M1 's writer and star and was edited by M0
+, {'映画のどの続編がM1の作家に書かれ、M0を主演させ、編集されましたか': 9, '映画のどの続編がM1の作家と主演に書かれ、M0に編集されましたか': 9}
+Who influenced a film 's executive producer and star and married M1
+, {'誰が映画のエグゼクティブプロデューサーを影響し、M1を主演させ、結婚しましたか': 3, '誰が映画のエグゼクティブプロデューサーと主演を影響し、M1を結婚しましたか': 3}
+Did M1 star a film 's director and star and star M2
+, {'M1は映画の監督を主演させ、M2を主演させ、主演させましたか': 3, 'M1は映画の監督と主演を主演させ、M2を主演させましたか': 3}
+Did M1 star M0 's cinematographer and star and star M2 , M3 , M4 , M5 , and M6
+, {'M1はM0の撮影監督を主演させ、M2、M3、M4、M5とM6を主演させ、主演させましたか': 4, 'M1はM0の撮影監督と主演を主演させ、M2、M3、M4、M5とM6を主演させましたか': 4}
+Who was employed by a production company that was acquired by M5 , employed by M1 , and employed by M2 and M3
+, {'誰がM5に買収され、M1に雇用され、M2とM3に雇用された制作会社に雇用されましたか': 14, '誰がM5に買収された制作会社に雇用され、M1に雇用され、M2とM3に雇用されましたか': 14}
+Was a film editor employed by a company founded by M2 , founded by M3 , and founded by a actor
+, {'ある映画編集者はM2に創設され、M3に創設され、俳優に創設された会社に雇用されましたか': 11, 'ある映画編集者はM2に創設された会社に雇用され、M3に創設され、俳優に創設されましたか': 11, '会社に雇用されたある映画編集者はM2に創設され、M3に創設され、俳優に創設されましたか': 11}
+Did M3 and M5 employ M4 and employ a film producer that executive produced M1 and directed M2
+, {'M3とM5はM4を雇用し、M1をエグゼクティブプロデュースした映画プロデューサーを雇用し、M2を監督しましたか': 7, 'M3とM5はM4を雇用し、M1をエグゼクティブプロデュースし、M2を監督した映画プロデューサーを雇用しましたか': 7}
+Was M2 produced by a film 's composer and star and written by a composer
+, {'M2は映画の作曲家と主演にプロデュースされ、作曲家に書かれましたか': 5, 'M2は映画の作曲家にプロデュースされ、作曲家に主演し、書かれましたか': 5}
+Which film executive produced , edited , and directed by a person was edited by and executive produced by M1
+, {'どの映画がM1に編集され、エグゼクティブプロデュースされた人をエグゼクティブプロデュースし、編集し、監督されましたか': 9, '人にエグゼクティブプロデュースされ、編集され、監督されたどの映画がM1に編集され、エグゼクティブプロデュースされましたか': 9, 'どの映画がM1に編集され、エグゼクティブプロデュースされた人にエグゼクティブプロデュースされ、編集され、監督されましたか': 9}
+Were M3 and M5 influenced by a film director employed by M1 and employed by M2 and influenced by M4
+, {'M3とM5はM1に雇用され、M2に雇用され、M4に影響された映画監督に影響されましたか': 10, 'M3とM5はM1に雇用され、M2に雇用された映画監督に影響され、M4に影響されましたか': 10, 'M3とM5はM1に雇用された映画監督に影響され、M2に雇用され、M4に影響されましたか': 10}
+What sibling of M0 was influenced by M2 's editor and star and was influenced by M1
+, {'M0のどの兄弟姉妹がM2の編集者に影響され、M1を主演させ、影響されましたか': 9, 'M0のどの兄弟姉妹がM2の編集者と主演に影響され、M1に影響されましたか': 9}
+What was founded by M0 , founded by M2 's director and star , and founded by M1
+, {'何がM0に創設され、M2の監督と主演に創設され、M1に創設されましたか': 9, '何がM0に創設され、M2の監督に創設され、M1に主演し、創設されましたか': 9}
+Who was influenced by M2 's writer and star and was influenced by M1 's editor
+, {'誰がM2の作家に影響され、M1の編集者を主演させ、影響されましたか': 7, '誰がM2の作家と主演に影響され、M1の編集者に影響されましたか': 7}
+What was written by a film director that influenced M2 and was influenced by M3 and executive produced by M0
+, {'何がM2を影響し、M3に影響され、M0にエグゼクティブプロデュースされた映画監督に書かれましたか': 12, '何がM2を影響し、M3に影響された映画監督に書かれ、M0にエグゼクティブプロデュースされましたか': 12, '何がM2を影響した映画監督に書かれ、M3に影響され、M0にエグゼクティブプロデュースされましたか': 12}
+Who wrote a film that was edited by M3 , starred M4 's composer , and was written by M2
+, {'誰がM3に編集され、M4の作曲家を主演させ、M2に書かれた映画を書きましたか': 12, '誰がM3に編集された映画を書き、M4の作曲家を主演させ、M2に書かれましたか': 12}
+Was M1 directed by M0 's producer and star and directed by M2
+, {'M1はM0のプロデューサーと主演に監督され、M2に監督されましたか': 5, 'M1はM0のプロデューサーに監督され、M2に主演し、監督されましたか': 5}
+Was M2 directed by a film producer whose sibling was influenced by M1 and edited by M3
+, {'M2は兄弟姉妹がM1に影響され、M3に編集された映画プロデューサーに監督されましたか': 10, 'M2は兄弟姉妹がM1に影響された映画プロデューサーに監督され、M3に編集されましたか': 10}
+What was executive produced by a costume designer that wrote M1 and directed M2
+, {'何がM1を書いた衣裳デザイナーにエグゼクティブプロデュースされ、M2を監督しましたか': 8, '何がM1を書き、M2を監督した衣裳デザイナーにエグゼクティブプロデュースされましたか': 8}
+What was executive produced by a film editor employed by M2 and M3 and employed by M4 and written by M0
+, {'何がM2とM3に雇用され、M4に雇用され、M0に書かれた映画編集者にエグゼクティブプロデュースされましたか': 11, '何がM2とM3に雇用され、M4に雇用された映画編集者にエグゼクティブプロデュースされ、M0に書かれましたか': 11, '何がM2とM3に雇用された映画編集者にエグゼクティブプロデュースされ、M4に雇用され、M0に書かれましたか': 11}
+Which film written by M2 and M3 and directed by a cinematographer was executive produced and written by M1
+, {'どの映画がM2とM3に書かれ、M1にエグゼクティブプロデュースされ、書かれた撮影監督に監督されましたか': 9, 'M2とM3に書かれ、撮影監督に監督されたどの映画がM1にエグゼクティブプロデュースされ、書かれましたか': 9}
+Were M1 and M5 edited by M0 's editor and star and executive produced by M2 , M3 , and M4
+, {'M1とM5はM0の編集者と主演に編集され、M2、M3とM4にエグゼクティブプロデュースされましたか': 6, 'M1とM5はM0の編集者に編集され、M2、M3とM4に主演し、エグゼクティブプロデュースされましたか': 6}
+Who was influenced by a film editor whose spouse married a composer and married M1 and M2
+, {'誰が配偶者が作曲家を結婚した映画編集者に影響され、M1とM2を結婚しましたか': 8, '誰が配偶者が作曲家を結婚し、M1とM2を結婚した映画編集者に影響されましたか': 8}
+What was executive produced by M0 , M1 , and M2 , edited by M4 's editor and star , and directed by M3
+, {'何がM0、M1とM2にエグゼクティブプロデュースされ、M4の編集者と主演に編集され、M3に監督されましたか': 10, '何がM0、M1とM2にエグゼクティブプロデュースされ、M4の編集者に編集され、M3に主演し、監督されましたか': 10}
+Was M3 founded by a film producer influenced by M1 and founded by a person
+, {'M3はM1に影響され、人に創設された映画プロデューサーに創設されましたか': 8, 'M3はM1に影響された映画プロデューサーに創設され、人に創設されましたか': 8}
+Did M3 influence a person that executive produced M1 and M2 and marry M4
+, {'M3はM1とM2をエグゼクティブプロデュースした人を影響し、M4を結婚しましたか': 6, 'M3はM1とM2をエグゼクティブプロデュースし、M4を結婚した人を影響しましたか': 6}
+What production company was acquired by M1 , M2 , and M3 and was acquired by a company founded by a film producer
+, {'どの制作会社がM1、M2とM3に買収され、映画プロデューサーに創設された会社に買収されましたか': 11, 'M1、M2とM3に買収され、会社に買収されたどの制作会社が映画プロデューサーに創設されましたか': 11}
+What was founded by a film producer that M2 and M3 were written by and starred and founded by M0
+, {'何がM2とM3を書いた映画プロデューサーに創設され、M0を主演させ、創設されましたか': 11, '何がM2とM3を書き、主演した映画プロデューサーに創設され、M0に創設されましたか': 11, '何がM2とM3を書いた映画プロデューサーに創設され、M0に主演し、創設されましたか': 11}
+Did M1 marry M0 's composer and star and marry M2 , M3 , and M4
+, {'M1はM0の作曲家を結婚し、M2、M3とM4を主演させ、結婚しましたか': 4, 'M1はM0の作曲家と主演を結婚し、M2、M3とM4を結婚しましたか': 4}
+Who influenced M1 , was influenced by M3 's writer and star , and was influenced by M2
+, {'誰がM1を影響し、M3の作家に影響され、M2を主演させ、影響されましたか': 9, '誰がM1を影響し、M3の作家と主演に影響され、M2に影響されましたか': 9}
+Was M4 edited by a person influenced by M1 and influenced by M2 and M3 and written by M5
+, {'M4はM1に影響され、M2とM3に影響され、M5に書かれた人に編集されましたか': 10, 'M4はM1に影響され、M2とM3に影響された人に編集され、M5に書かれましたか': 10, 'M4はM1に影響された人に編集され、M2とM3に影響され、M5に書かれましたか': 10}
+What was produced by a composer influenced by M2 , M3 , and M4 and executive produced by M0
+, {'何がM2、M3とM4に影響され、M0にエグゼクティブプロデュースされた作曲家にプロデュースされましたか': 10, '何がM2、M3とM4に影響された作曲家にプロデュースされ、M0にエグゼクティブプロデュースされましたか': 10}
+Was a film written by and executive produced by a cinematographer produced and written by a cinematographer of M2
+, {'ある映画はM2の撮影監督にプロデュースされ、書かれた撮影監督に書かれ、エグゼクティブプロデュースされましたか': 9, '撮影監督に書かれ、エグゼクティブプロデュースされたある映画はM2の撮影監督にプロデュースされ、書かれましたか': 9}
+Did M3 found a production company whose founder founded M1 and founded M2 and found M4
+, {'M3は創設者がM1を創設し、M2を創設した制作会社を創設し、M4を創設しましたか': 7, 'M3は創設者がM1を創設した制作会社を創設し、M2を創設し、M4を創設しましたか': 7, 'M3は創設者がM1を創設し、M2を創設し、M4を創設した制作会社を創設しましたか': 7}
+What was executive produced by M0 and M1 , executive produced by M3 's writer and star , and executive produced by M2
+, {'何がM0とM1にエグゼクティブプロデュースされ、M3の作家と主演にエグゼクティブプロデュースされ、M2にエグゼクティブプロデュースされましたか': 9, '何がM0とM1にエグゼクティブプロデュースされ、M3の作家にエグゼクティブプロデュースされ、M2に主演し、エグゼクティブプロデュースされましたか': 9}
+Was M4 edited by a actor employed by M1 and M2 and employed by M3
+, {'M4はM1とM2に雇用され、M3に雇用された俳優に編集されましたか': 8, 'M4はM1とM2に雇用された俳優に編集され、M3に雇用されましたか': 8}
+Was M3 executive produced by M4 and directed by a actor that married M2 and was influenced by M1
+, {'M3はM4にエグゼクティブプロデュースされ、M2を結婚し、M1に影響された俳優に監督されましたか': 11, 'M3はM4にエグゼクティブプロデュースされ、M2を結婚した俳優に監督され、M1に影響されましたか': 11}
+What was edited and written by a film editor that was influenced by M2 and influenced M1
+, {'何がM2に影響された映画編集者に編集され、書かれ、M1を影響しましたか': 10, '何がM2に影響され、M1を影響した映画編集者に編集され、書かれましたか': 10}
+Was M2 influenced by M1 's director and star and influenced by a cinematographer of M0
+, {'M2はM1の監督と主演に影響され、M0の撮影監督に影響されましたか': 7, 'M2はM1の監督に影響され、M0の撮影監督に主演し、影響されましたか': 7}
+Did M2 and M5 influence a cinematographer that wrote M1 and influence M3 and M4
+, {'M2とM5はM1を書いた撮影監督を影響し、M3とM4を影響しましたか': 6, 'M2とM5はM1を書き、M3とM4を影響した撮影監督を影響しましたか': 6}
+Did M4 and M5 marry a composer that founded a production company and founded M1 and M2
+, {'M4とM5は制作会社を創設した作曲家を結婚し、M1とM2を創設しましたか': 6, 'M4とM5は制作会社を創設し、M1とM2を創設した作曲家を結婚しましたか': 6}
+What was written by a film producer that M2 was edited by and was written by and executive produced by M0
+, {'何がM2を編集した映画プロデューサーに書かれ、M0に書かれ、エグゼクティブプロデュースされましたか': 13, '何がM2を編集し、書いた映画プロデューサーに書かれ、M0にエグゼクティブプロデュースされましたか': 13}
+Was M1 written by M2 and M3 , written by M0 's director and star , and edited by M4
+, {'M1はM2とM3に書かれ、M0の監督と主演に書かれ、M4に編集されましたか': 8, 'M1はM2とM3に書かれ、M0の監督に書かれ、M4に主演し、編集されましたか': 8}
+Did M3 employ a composer that M2 employed and was founded by and employ M0 's sibling
+, {'M3はM2が雇用した作曲家を雇用し、M0の兄弟姉妹に創設され、雇用しましたか': 8, 'M3はM2が雇用し、創設された作曲家を雇用し、M0の兄弟姉妹を雇用しましたか': 8}
+Was M3 directed by a film producer influenced by a film editor and influenced by M1 and executive produced by M4
+, {'M3は映画編集者に影響され、M1に影響され、M4にエグゼクティブプロデュースされた映画プロデューサーに監督されましたか': 10, 'M3は映画編集者に影響され、M1に影響された映画プロデューサーに監督され、M4にエグゼクティブプロデュースされましたか': 10, 'M3は映画編集者に影響された映画プロデューサーに監督され、M1に影響され、M4にエグゼクティブプロデュースされましたか': 10}
+Did M2 star M3 , star M0 's executive producer and star , and star M1 's sibling
+, {'M2はM3を主演させ、M0のエグゼクティブプロデューサーを主演させ、M1の兄弟姉妹を主演させ、主演させましたか': 5, 'M2はM3を主演させ、M0のエグゼクティブプロデューサーと主演を主演させ、M1の兄弟姉妹を主演させましたか': 5}
+What was written by M0 and M1 , edited by M3 's cinematographer and star , and written by a cinematographer
+, {'何がM0とM1に書かれ、M3の撮影監督と主演に編集され、撮影監督に書かれましたか': 9, '何がM0とM1に書かれ、M3の撮影監督に編集され、撮影監督に主演し、書かれましたか': 9}
+Who was influenced by a film producer that married M4 and was influenced by M3 and influenced by M1
+, {'誰がM4を結婚し、M3に影響され、M1に影響された映画プロデューサーに影響されましたか': 12, '誰がM4を結婚し、M3に影響された映画プロデューサーに影響され、M1に影響されましたか': 12, '誰がM4を結婚した映画プロデューサーに影響され、M3に影響され、M1に影響されましたか': 12}
+Who was influenced by a actor whose sibling edited M3 and was influenced by M1
+, {'誰が兄弟姉妹がM3を編集し、M1に影響された俳優に影響されましたか': 10, '誰が兄弟姉妹がM3を編集した俳優に影響され、M1に影響されましたか': 10}
+Were M3 and M5 directed by a cinematographer influenced by M1 and influenced by M2 and edited by M4
+, {'M3とM5はM1に影響され、M2に影響され、M4に編集された撮影監督に監督されましたか': 10, 'M3とM5はM1に影響され、M2に影響された撮影監督に監督され、M4に編集されましたか': 10, 'M3とM5はM1に影響された撮影監督に監督され、M2に影響され、M4に編集されましたか': 10}
+Did M3 influence a person that was influenced by M2 and influenced M1
+, {'M3はM2に影響された人を影響し、M1を影響しましたか': 8, 'M3はM2に影響され、M1を影響した人を影響しましたか': 8}
+Did M4 influence a French male costume designer that influenced M1 and influence a costume designer
+, {'M4はM1を影響したフランスの男性の衣裳デザイナーを影響し、衣裳デザイナーを影響しましたか': 6, 'M4はM1を影響し、衣裳デザイナーを影響したフランスの男性の衣裳デザイナーを影響しましたか': 6}
+Was M3 written and edited by a actor influenced by a film director and influenced by M1
+, {'M3は映画監督に影響され、M1に影響された俳優に書かれ、編集されましたか': 8, 'M3は映画監督に影響された俳優に書かれ、編集され、M1に影響されましたか': 8}
+What was written by M0 , M1 , and M2 , edited by M3 's director and star , and directed by a costume designer
+, {'何がM0、M1とM2に書かれ、M3の監督と主演に編集され、衣裳デザイナーに監督されましたか': 10, '何がM0、M1とM2に書かれ、M3の監督に編集され、衣裳デザイナーに主演し、監督されましたか': 10}
+Was M3 executive produced by a Japanese actor influenced by M1 , produced by M4 , and directed by M5
+, {'M3はM1に影響され、M4にプロデュースされ、M5に監督された日本の俳優にエグゼクティブプロデュースされましたか': 11, 'M3はM1に影響された日本の俳優にエグゼクティブプロデュースされ、M4にプロデュースされ、M5に監督されましたか': 11}
+What was produced by a film 's cinematographer and star and executive produced by M0 and M1
+, {'何が映画の撮影監督にプロデュースされ、M0とM1を主演させ、エグゼクティブプロデュースされましたか': 6, '何が映画の撮影監督と主演にプロデュースされ、M0とM1にエグゼクティブプロデュースされましたか': 6, '何が映画の撮影監督にプロデュースされ、M0とM1に主演し、エグゼクティブプロデュースされましたか': 6}
+What was acquired by a company acquired by M2 and acquired by M0
+, {'何がM2に買収され、M0に買収された会社に買収されましたか': 9, '何がM2に買収された会社に買収され、M0に買収されましたか': 9}
+Was a film written by M1 and executive produced by a film producer edited by M2 and M3
+, {'ある映画はM1に書かれ、M2とM3に編集された映画プロデューサーにエグゼクティブプロデュースされましたか': 8, 'M1に書かれ、映画プロデューサーにエグゼクティブプロデュースされたある映画はM2とM3に編集されましたか': 8}
+Were M2 and M4 produced by a film director that M1 was edited by and executive produced by and distributed by M3
+, {'M2とM4はM1を編集した映画監督にプロデュースされ、M3にエグゼクティブプロデュースされ、配給されましたか': 11, 'M2とM4はM1を編集し、エグゼクティブプロデュースした映画監督にプロデュースされ、M3に配給されましたか': 11}
+Which film director influenced by a cinematographer was employed by M1
+, {'どの映画監督がM1に雇用された撮影監督に影響されましたか': 7, '撮影監督に影響されたどの映画監督がM1に雇用されましたか': 7}
+Which actor influenced by a film director was employed by M1
+, {'どの俳優がM1に雇用された映画監督に影響されましたか': 7, '映画監督に影響されたどの俳優がM1に雇用されましたか': 7}
+Was M3 influenced by a film editor employed by M1 and employed by M2
+, {'M3はM1に雇用され、M2に雇用された映画編集者に影響されましたか': 8, 'M3はM1に雇用された映画編集者に影響され、M2に雇用されましたか': 8}
+What was edited by M1 , directed by M2 's director and star , and executive produced by M0
+, {'何がM1に編集され、M2の監督と主演に監督され、M0にエグゼクティブプロデュースされましたか': 9, '何がM1に編集され、M2の監督に監督され、M0に主演し、エグゼクティブプロデュースされましたか': 9}
+Was a film produced , executive produced , and edited by a film director distributed by and produced by M1
+, {'ある映画はM1に配給され、プロデュースされた映画監督にプロデュースされ、エグゼクティブプロデュースされ、編集されましたか': 8, '映画監督にプロデュースされ、エグゼクティブプロデュースされ、編集されたある映画はM1に配給され、プロデュースされましたか': 8}
+Was M1 produced by M0 's composer and star and produced by M2 and M3
+, {'M1はM0の作曲家と主演にプロデュースされ、M2とM3にプロデュースされましたか': 5, 'M1はM0の作曲家にプロデュースされ、M2とM3に主演し、プロデュースされましたか': 5}
+Was M2 produced by a actor that M1 employed and was founded by and executive produced by M3 and M4
+, {'M2はM1が雇用した俳優にプロデュースされ、M3とM4に創設され、エグゼクティブプロデュースされましたか': 10, 'M2はM1が雇用し、創設された俳優にプロデュースされ、M3とM4にエグゼクティブプロデュースされましたか': 10}
+What was produced by a person employed by M1 , M2 , M3 , and M4 and employed by M5 and M6
+, {'何がM1、M2、M3とM4に雇用され、M5とM6に雇用された人にプロデュースされましたか': 10, '何がM1、M2、M3とM4に雇用された人にプロデュースされ、M5とM6に雇用されましたか': 10}
+Was M3 founded by a film editor that M1 and M2 were directed by and written by and founded by M4
+, {'M3はM1とM2を監督した映画編集者に創設され、M4に書かれ、創設されましたか': 11, 'M3はM1とM2を監督し、書いた映画編集者に創設され、M4に創設されましたか': 11}
+What was directed and executive produced by a actor influenced by M1 and influenced by M2 , M3 , and M4
+, {'何がM1に影響され、M2、M3とM4に影響された俳優に監督され、エグゼクティブプロデュースされましたか': 10, '何がM1に影響された俳優に監督され、エグゼクティブプロデュースされ、M2、M3とM4に影響されましたか': 10}
+Did M2 employ a person that M1 was edited by and was written by and employ M3
+, {'M2はM1を編集した人を雇用し、M3に書かれ、雇用しましたか': 10, 'M2はM1を編集し、書いた人を雇用し、M3を雇用しましたか': 10}
+Who was influenced by a film director that M4 was executive produced by and starred and influenced by M1 and M2
+, {'誰がM4をエグゼクティブプロデュースした映画監督に影響され、M1とM2を主演させ、影響されましたか': 11, '誰がM4をエグゼクティブプロデュースし、主演した映画監督に影響され、M1とM2に影響されましたか': 11, '誰がM4をエグゼクティブプロデュースした映画監督に影響され、M1とM2に主演し、影響されましたか': 11}
+What film was written by M2 's cinematographer and star and starred M1
+, {'どの映画がM2の撮影監督に書かれ、M1を主演させ、主演させましたか': 5, 'どの映画がM2の撮影監督と主演に書かれ、M1を主演させましたか': 5}
+What employer of M0 and M1 was founded by M3 's writer and star and founded by a film editor
+, {'M0とM1のどの雇用主がM3の作家に創設され、映画編集者を主演させ、創設されましたか': 8, 'M0とM1のどの雇用主がM3の作家と主演に創設され、映画編集者に創設されましたか': 8, 'M0とM1のどの雇用主がM3の作家に創設され、映画編集者に主演し、創設されましたか': 8}
+Did M3 , M4 , and M5 employ a cinematographer that was employed by M2 's producer and was employed by M1
+, {'M3、M4とM5はM2のプロデューサーに雇用され、M1に雇用された撮影監督を雇用しましたか': 11, 'M3、M4とM5はM2のプロデューサーに雇用された撮影監督を雇用し、M1に雇用されましたか': 11}
+Was M3 directed by M4 and produced by a cinematographer employed by M1 and employed by M2
+, {'M3はM4に監督され、M1に雇用され、M2に雇用された撮影監督にプロデュースされましたか': 10, 'M3はM4に監督され、M1に雇用された撮影監督にプロデュースされ、M2に雇用されましたか': 10}
+Did M2 influence a film producer that influenced a composer and influence M3
+, {'M2は作曲家を影響した映画プロデューサーを影響し、M3を影響しましたか': 6, 'M2は作曲家を影響し、M3を影響した映画プロデューサーを影響しましたか': 6}
+Who influenced M1 's cinematographer and star and was influenced by a person
+, {'誰がM1の撮影監督を影響し、人を主演させ、影響されましたか': 5, '誰がM1の撮影監督と主演を影響し、人に影響されましたか': 5}
+What was executive produced by a film editor that M2 and M3 starred and were written by and written by M0
+, {'何がM2とM3が主演した映画編集者にエグゼクティブプロデュースされ、M0に書かれ、書かれましたか': 11, '何がM2とM3が主演させ、書かれた映画編集者にエグゼクティブプロデュースされ、M0に書かれましたか': 11}
+Did M1 marry M2 , marry M3 , influence M0 's director and star , and marry M4
+, {'M1はM2を結婚し、M3を結婚し、M0の監督を影響し、M4を主演させ、結婚しましたか': 6, 'M1はM2を結婚し、M3を結婚し、M0の監督と主演を影響し、M4を結婚しましたか': 6}
+Did M3 , M4 , and M5 star a film director whose sibling founded M2 and was employed by M1
+, {'M3、M4とM5は兄弟姉妹がM2を創設し、M1に雇用された映画監督を主演させましたか': 9, 'M3、M4とM5は兄弟姉妹がM2を創設した映画監督を主演させ、M1に雇用されましたか': 9}
+Did a editor of M0 and M1 executive produce a film whose distributor was founded by M4 and direct M2
+, {'M0とM1のある編集者は配給者がM4に創設された映画をエグゼクティブプロデュースし、M2を監督しましたか': 10, 'M0とM1のある編集者は配給者がM4に創設され、M2を監督した映画をエグゼクティブプロデュースしましたか': 10}
+Was M1 written by M2 , written by M0 's editor and star , and edited by M3 and M4
+, {'M1はM2に書かれ、M0の編集者と主演に書かれ、M3とM4に編集されましたか': 8, 'M1はM2に書かれ、M0の編集者に書かれ、M3とM4に主演し、編集されましたか': 8}
+What was executive produced by a film producer influenced by M1 and influenced by M2 , M3 , and M4
+, {'何がM1に影響され、M2、M3とM4に影響された映画プロデューサーにエグゼクティブプロデュースされましたか': 10, '何がM1に影響された映画プロデューサーにエグゼクティブプロデュースされ、M2、M3とM4に影響されましたか': 10}
+Were M2 and M4 founded by M3 , founded by M0 's executive producer and star , and founded by a person
+, {'M2とM4はM3に創設され、M0のエグゼクティブプロデューサーと主演に創設され、人に創設されましたか': 8, 'M2とM4はM3に創設され、M0のエグゼクティブプロデューサーに創設され、人に主演し、創設されましたか': 8}
+What film was executive produced by M4 's editor and star and starred M1 , M2 , and M3
+, {'どの映画がM4の編集者にエグゼクティブプロデュースされ、M1、M2とM3を主演させ、主演させましたか': 6, 'どの映画がM4の編集者と主演にエグゼクティブプロデュースされ、M1、M2とM3を主演させましたか': 6}
+Were M1 , M3 , M4 , M5 , and M6 written by M0 's executive producer and star and directed by M2
+, {'M1、M3、M4、M5とM6はM0のエグゼクティブプロデューサーと主演に書かれ、M2に監督されましたか': 6, 'M1、M3、M4、M5とM6はM0のエグゼクティブプロデューサーに書かれ、M2に主演し、監督されましたか': 6}
+Was M2 's producer founded by M3 's writer and star and founded by M0 and M1
+, {'M2のプロデューサーはM3の作家と主演に創設され、M0とM1に創設されましたか': 5, 'M2のプロデューサーはM3の作家に創設され、M0とM1に主演し、創設されましたか': 5}
+What was written by a British person influenced by M2 and written by M0 's writer
+, {'何がM2に影響され、M0の作家に書かれたイギリスの人に書かれましたか': 9, '何がM2に影響されたイギリスの人に書かれ、M0の作家に書かれましたか': 9}
+Were M3 , M5 , and M6 produced by a cinematographer that was employed by M1 and M2 and directed by M4
+, {'M3、M5とM6はM1とM2に雇用され、M4に監督された撮影監督にプロデュースされましたか': 11, 'M3、M5とM6はM1とM2に雇用された撮影監督にプロデュースされ、M4に監督されましたか': 11}
+Who was influenced by a film producer that was employed by M4 and married M1 and M2
+, {'誰がM4に雇用された映画プロデューサーに影響され、M1とM2を結婚しましたか': 10, '誰がM4に雇用され、M1とM2を結婚した映画プロデューサーに影響されましたか': 10}
+Did M2 found a company whose employee directed a film and found M3
+, {'M2は被雇用者が映画を監督した会社を創設し、M3を創設しましたか': 6, 'M2は被雇用者が映画を監督し、M3を創設した会社を創設しましたか': 6}
+What was directed and executive produced by a actor that was employed by M1 and founded M2
+, {'何がM1に雇用された俳優に監督され、エグゼクティブプロデュースされ、M2を創設しましたか': 10, '何がM1に雇用され、M2を創設した俳優に監督され、エグゼクティブプロデュースされましたか': 10}
+Did M3 influence a film editor that married M1 and M2 and marry M4
+, {'M3はM1とM2を結婚した映画編集者を影響し、M4を結婚しましたか': 6, 'M3はM1とM2を結婚し、M4を結婚した映画編集者を影響しましたか': 6}
+Were M1 and M4 founded by M2 , founded by M0 's executive producer and star , and founded by M3
+, {'M1とM4はM2に創設され、M0のエグゼクティブプロデューサーと主演に創設され、M3に創設されましたか': 8, 'M1とM4はM2に創設され、M0のエグゼクティブプロデューサーに創設され、M3に主演し、創設されましたか': 8}
+Did M3 executive produce a film whose composer and director wrote M1 and wrote M2
+, {'M3は作曲家と監督がM1を書いた映画をエグゼクティブプロデュースし、M2を書きましたか': 6, 'M3は作曲家と監督がM1を書き、M2を書いた映画をエグゼクティブプロデュースしましたか': 6}
+Which film was produced by a film producer that M3 was directed by and edited by and was distributed by M1
+, {'どの映画がM3を監督した映画プロデューサーにプロデュースされ、M1に編集され、配給されましたか': 13, 'どの映画がM3を監督し、編集した映画プロデューサーにプロデュースされ、M1に配給されましたか': 13}
+What film was edited by a cinematographer that directed M5 and was written by M1 , M2 , and M3
+, {'どの映画がM5を監督し、M1、M2とM3に書かれた撮影監督に編集されましたか': 11, 'どの映画がM5を監督した撮影監督に編集され、M1、M2とM3に書かれましたか': 11}
+Did M2 employ a film editor that a film was written by and was executive produced by and employ M3
+, {'M2は映画を書いた映画編集者を雇用し、M3にエグゼクティブプロデュースされ、雇用しましたか': 10, 'M2は映画を書き、エグゼクティブプロデュースした映画編集者を雇用し、M3を雇用しましたか': 10}
+Who was influenced by a cinematographer that M3 and M4 were written by and starred and influenced by M1
+, {'誰がM3とM4を書いた撮影監督に影響され、M1を主演させ、影響されましたか': 11, '誰がM3とM4を書き、主演した撮影監督に影響され、M1に影響されましたか': 11, '誰がM3とM4を書いた撮影監督に影響され、M1に主演し、影響されましたか': 11}
