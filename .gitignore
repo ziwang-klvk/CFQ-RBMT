@@ -135,4 +135,5 @@ dmypy.json
 # mcwq dataset
 /mcwq
 
+.idea/
 .DS_store
