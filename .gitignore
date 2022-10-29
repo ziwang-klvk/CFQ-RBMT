@@ -137,3 +137,5 @@ dmypy.json
 
 .idea/
 .DS_store
+
+pipeline/google_translate.ipynb
