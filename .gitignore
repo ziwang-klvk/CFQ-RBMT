@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# generated analytic files
+*.png
+*.csv
+# mcwq dataset
+/mcwq
+
+.DS_store

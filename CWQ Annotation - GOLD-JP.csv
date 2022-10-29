@@ -1,8 +1,8 @@
 questionPatternModEntities,questionPatternModEntitiesJP
 Was M0 a screenwriter,M0は脚本家でしたか
 Was a composer M0,ある作曲家はM0でしたか
-What did M0 found,M0が創設したのは何でしたか
-What did M0 edit,M0が編集したのは何でしたか
+What did M0 found,M0が創設したのは何ですか
+What did M0 edit,M0が編集したのは何ですか
 Was M0 M1 's sequel,M0はM1の続編でしたか
 Was M1 's sequel M0,M1の続編はM0でしたか
 What was M0 's parent,M0の親は何でしたか
@@ -16,7 +16,7 @@ Was M1 's spouse M0 's employee,M1の配偶者はM0の被雇用者でしたか
 Was M1 produced by a composer,M1は作曲家にプロデュースされましたか
 Was a composer of M1 a screenwriter,M1のある作曲家は脚本家でしたか
 Was a composer of M1 a cinematographer,M1のある作曲家は撮影監督でしたか
-What sequel of M1 did M0 distribute,M0が配給したのはM1のどの続編でしたか
+What sequel of M1 did M0 distribute,M0が配給したのはM1のどの続編ですか
 What sequel of M1 starred M0,M1のどの続編はM0を主演させましたか
 Was M0 's founder a parent of M1,M0の創設者はM1の親でしたか
 Was M0 's sibling a employee of M1,M0の兄弟姉妹はM1の被雇用者でしたか
@@ -28,7 +28,7 @@ What was written and directed by M0,何がM0に書かれ、監督されました
 What was written and edited by M0,何がM0に書かれ、編集されましたか
 Was a costume designer M2 's Swedish parent,ある衣裳デザイナーはM2のスウェーデン人の親でしたか
 Was M2 's spouse a Japanese cinematographer,M2の配偶者は日本の撮影監督でしたか
-What employer of a film director did M0 found,M0が創設したのはどの映画監督の雇用主でしたか
+What employer of a film director did M0 found,M0が創設したのはどの映画監督の雇用主ですか
 What was written by and produced by M0,何がM0に書かれ、プロデュースされましたか
 Was a costume designer 's employer a producer of M0,ある衣裳デザイナーの雇用主はM0のプロデューサーでしたか
 Was a costume designer 's sibling a spouse of M0,ある衣裳デザイナーの兄弟姉妹はM0の配偶者でしたか
@@ -49,9 +49,9 @@ Which distributor and producer of M1 was founded by M0,M1のどの配給者と�
 "Did M0 's parent , spouse , and sibling marry M1",M0の親、配偶者と兄弟姉妹はM1と結婚しましたか
 Was a costume designer M3 's Canadian male spouse,ある衣裳デザイナーはM3のカナダ人の男性の配偶者でしたか
 What sequel of M1 was distributed and produced by M0,M1のどの続編がM0に配給され、プロデュースされましたか
-What child and parent of a company did M0 acquire,M0が買収したのは会社のどの子会社と親会社でしたか
+What child and parent of a company did M0 acquire,M0が買収したのは会社のどの子会社と親会社ですか
 Was M2 's producer and distributor founded by M0 and M1,M2のプロデューサーと配給者はM0とM1に創設されましたか
-Was a actor that M2 was influenced by M0 's sibling,M2に影響したある俳優はM0の兄弟姉妹でしたか
+Was a actor that M2 was influenced by M0 's sibling,M2に影響したある俳優はM0の兄弟姉妹ですか
 "What was written and edited by M0 , M1 , and M2",何がM0、M1とM2に書かれ、編集されましたか
 What costume designer of a film was M0 's Spanish sibling,M0のスペインの兄弟姉妹は映画のどの衣裳デザイナーでしたか
 Was a composer a Swedish female spouse of M3,ある作曲家はM3のスウェーデンの女性の配偶者でしたか
@@ -65,7 +65,7 @@ What female sibling of M0 was M1 's sibling and spouse,M1の兄弟姉妹と配�
 "Was M0 produced , directed , and written by M1 and M2",M0はM1とM2にプロデュースされ、監督され、書かれましたか
 "Was a costume designer a star and editor of M1 , M2 , and M3",ある衣裳デザイナーはM1、M2とM3の主演と編集者でしたか
 "Who was a editor and star of M1 , M2 , M3 , and M4",M1、M2、M3とM4の編集者と主演は誰でしたか
-"What did M0 , M1 , M2 , and M3 edit and direct",M0、M1、M2とM3が編集し、監督したのは何でしたか
+"What did M0 , M1 , M2 , and M3 edit and direct",M0、M1、M2とM3が編集し、監督したのは何ですか
 "Was M0 directed and written by M1 , M2 , M3 , and M4",M0はM1、M2、M3とM4に監督され、書かれましたか
 "Was M0 directed and produced by M1 , M2 , M3 , and M4",M0はM1、M2、M3とM4に監督され、プロデュースされましたか
 "What was written , executive produced , produced , and edited by M0",何がM0に書かれ、エグゼクティブプロデュースされ、プロデュースされ、編集されましたか
@@ -92,16 +92,16 @@ What female sibling of M0 was M1 's sibling and spouse,M1の兄弟姉妹と配�
 "Which film was directed and written by M1 , M2 , M3 , M4 , and M5",どの映画がM1、M2、M3、M4とM5に監督され、書かれましたか
 "Was a composer of M3 a star , director , and cinematographer of M0 , M1 , and M2",M3のある作曲家はM0、M1とM2の主演、監督と撮影監督でしたか
 "Was a composer of M3 and M4 a editor and star of M0 , M1 , and M2",M3とM4のある作曲家はM0、M1とM2の編集者と主演でしたか
-"What film did M1 , M2 , and M3 executive produce , write , and direct",M1、M2とM3がエグゼクティブプロデュースし、書き、監督したのはどの映画でしたか
+"What film did M1 , M2 , and M3 executive produce , write , and direct",M1、M2とM3がエグゼクティブプロデュースし、書き、監督したのはどの映画ですか
 "What was directed by , written by , and edited by M0 , M1 , M2 , and M3",何がM0、M1、M2とM3に監督され、書かれ、編集されましたか
 "Did a film editor write , executive produce , and edit M1 , M2 , and M3",ある映画編集者はM1、M2とM3を書き、エグゼクティブプロデュースし、編集しましたか
 "Did a film producer executive produce , edit , and write M1 , M2 , and M3",ある映画プロデューサーはM1、M2とM3をエグゼクティブプロデュースし、編集し、書きましたか
-"What writer and editor of M0 , M1 , and M2 did M3 marry and influence",M3が結婚し、影響したのはM0、M1とM2のどの作家と編集者でしたか
+"What writer and editor of M0 , M1 , and M2 did M3 marry and influence",M3が結婚し、影響したのはM0、M1とM2のどの作家と編集者ですか
 "What writer , star , director , and composer of M0 and M1 was a director of M2",M2のある監督はM0とM1のどの作家、主演、監督と作曲家でしたか
 "Was a cinematographer a star , writer , editor , cinematographer , and director of M0 and M1",ある撮影監督はM0とM1の主演、作家、編集者、撮影監督と監督でしたか
 "Was a cinematographer and star of M1 , M2 , M3 , and M4 M0 's editor and executive producer",M1、M2、M3とM4のある撮影監督と主演はM0の編集者とエグゼクティブプロデューサーでしたか
-"What cinematographer and editor of M6 did M0 , M1 , M2 , M3 , M4 , and M5 star",M0、M1、M2、M3、M4とM5が主演されたのはM6のどの撮影監督と編集者でしたか
-"What writer , editor , and director of M0 and M1 did M2 influence and marry",M2が影響し、結婚したのはM0とM1のどの作家、編集者と監督でしたか
+"What cinematographer and editor of M6 did M0 , M1 , M2 , M3 , M4 , and M5 star",M0、M1、M2、M3、M4とM5が主演されたのはM6のどの撮影監督と編集者ですか
+"What writer , editor , and director of M0 and M1 did M2 influence and marry",M2が影響し、結婚したのはM0とM1のどの作家、編集者と監督ですか
 "Was M3 's editor , executive producer , and cinematographer a star and writer of M0 , M1 , and M2",M3の編集者、エグゼクティブプロデューサーと撮影監督はM0、M1とM2の主演と作家でしたか
 "Did a film editor edit , write , and direct M1 , M2 , M3 , and M4",ある映画編集者はM1、M2、M3とM4を編集し、書き、監督しましたか
 "What writer , executive producer , and editor of M1 and M2 executive produced and edited M0",M1とM2のどの作家、エグゼクティブプロデューサーと編集者がM0をエグゼクティブプロデュースし、編集しましたか
@@ -118,16 +118,16 @@ Was M0 's founder and employee employed by M1 and M2 and employed by M3 and M4,M
 "Did M4 's American cinematographer edit , direct , and write M0 , M1 , and M2",M4のアメリカ人の撮影監督はM0、M1とM2を編集し、監督し、書きましたか
 "What writer , cinematographer , and director of M0 , M1 , and M2 wrote and executive produced M3",M0、M1とM2のどの作家、撮影監督と監督がM3を書き、エグゼクティブプロデュースしましたか
 "Which film was directed by , produced by , written by , and edited by M1 , M2 , and M3",どの映画がM1、M2とM3に監督され、プロデュースされ、書かれ、編集されましたか
-"Was a costume designer that M2 , M3 , M4 , M5 , and M6 were written by and edited by M0",M2、M3、M4、M5とM6を書き、編集したある衣裳デザイナーはM0でしたか
+"Was a costume designer that M2 , M3 , M4 , M5 , and M6 were written by and edited by M0",M2、M3、M4、M5とM6を書き、編集したある衣裳デザイナーはM0ですか
 "Did a film producer write , executive produce , edit , and direct M1 , M2 , and M3",ある映画プロデューサーはM1、M2とM3を書き、エグゼクティブプロデュースし、編集し、監督しましたか
-"What was a film that was edited by , written by , and directed by M1 , M2 , and M3",M1、M2とM3に編集され、書かれ、監督されたある映画は何でしたか
+"What was a film that was edited by , written by , and directed by M1 , M2 , and M3",M1、M2とM3に編集され、書かれ、監督されたある映画は何ですか
 "Which film was directed by , edited by , written by , and produced by M1 , M2 , and M3",どの映画がM1、M2とM3に監督され、編集され、書かれ、プロデュースされましたか
 "Did M3 's director edit , executive produce , write , and direct M0 , M1 , and M2",M3の監督はM0、M1とM2を編集し、エグゼクティブプロデュースし、書き、監督しましたか
 "Did M3 's director edit , write , executive produce , and direct M0 , M1 , and M2",M3の監督はM0、M1とM2を編集し、書き、エグゼクティブプロデュースし、監督しましたか
-"What was a film that was executive produced by , directed by , and written by M1 , M2 , and M3",M1、M2とM3にエグゼクティブプロデュースされ、監督され、書かれたある映画は何でしたか
+"What was a film that was executive produced by , directed by , and written by M1 , M2 , and M3",M1、M2とM3にエグゼクティブプロデュースされ、監督され、書かれたある映画は何ですか
 "What editor and cinematographer of M1 , M2 , and M3 edited , executive produced , and directed M0",M1、M2とM3のどの編集者と撮影監督がM0を編集し、エグゼクティブプロデュースし、監督しましたか
-"Was a cinematographer that M2 , M3 , and M4 were edited by , were directed by , and starred M0",M2、M3とM4を編集し、監督し、主演したある撮影監督はM0でしたか
-Was a actor that M1 and M2 were influenced by and M4 and M5 married M3 's founder,M1とM2に影響し、M4とM5と結婚したある俳優はM3の創設者でしたか
+"Was a cinematographer that M2 , M3 , and M4 were edited by , were directed by , and starred M0",M2、M3とM4を編集し、監督し、主演したある撮影監督はM0ですか
+Was a actor that M1 and M2 were influenced by and M4 and M5 married M3 's founder,M1とM2に影響し、M4とM5と結婚したある俳優はM3の創設者ですか
 What employee and founder of M0 and M1 was employed by M2 and was employed by M3 and M4,M0とM1のどの被雇用者と創設者がM2に雇用され、M3とM4に雇用されましたか
 "What writer , cinematographer , star , and composer of M3 edited and directed M0 , M1 , and M2",M3のどの作家、撮影監督、主演と作曲家がM0、M1とM2を編集し、監督しましたか
 "Did M2 's editor and executive producer direct , edit , write , and executive produce M0 and M1",M2の編集者とエグゼクティブプロデューサーはM0とM1を監督し、編集し、書き、エグゼクティブプロデュースしましたか
@@ -139,7 +139,7 @@ What employee and founder of M0 and M1 was employed by M2 and was employed by M3
 "What cinematographer and writer of M0 , M1 , M2 , and M3 directed , wrote , and executive produced M4",M0、M1、M2とM3のどの撮影監督と作家がM4を監督し、書き、エグゼクティブプロデュースしましたか
 "What cinematographer , director , and editor of M3 and M4 executive produced M0 and executive produced M1 and M2",M3とM4のどの撮影監督、監督と編集者がM0をエグゼクティブプロデュースし、M1とM2をエグゼクティブプロデュースしましたか
 "Did a director and editor of M0 , M1 , M2 , and M3 marry M4 and M5 and marry M6",M0、M1、M2とM3のある監督と編集者はM4とM5と結婚し、M6と結婚しましたか
-"Was M0 a male person that M2 , M3 , and M4 were written by , edited by , and directed by",M0はM2、M3とM4を書き、編集し、監督した男性の人でしたか
+"Was M0 a male person that M2 , M3 , and M4 were written by , edited by , and directed by",M0はM2、M3とM4を書き、編集し、監督した男性の人ですか
 "What distributor and producer of M6 was acquired by M0 and M1 and acquired by M2 , M3 , M4 , and M5",M6のどの配給者とプロデューサーはM0とM1に買収され、M2、M3、M4とM5に買収されましたか
 "What composer , editor , and director of M3 and M4 directed M5 and edited M0 , M1 , and M2",M3とM4のどの作曲家、編集者と監督がM5を監督し、M0、M1とM2を編集しましたか
 Did a film director that M2 and M3 were directed by and starred influence M0 and influence M1,M2とM3を監督し、主演したある映画監督はM0に影響し、M1に影響しましたか
@@ -147,10 +147,10 @@ Did a film director that M2 and M3 were directed by and starred influence M0 and
 "Which director , star , and writer of M0 , M1 , and M2 married , influenced , and was influenced by M3",M0、M1とM2のどの監督、主演と作家がM3と結婚し、影響し、影響されましたか
 "What distributor and producer of M6 was acquired by M0 and M1 and acquired M2 , M3 , M4 , and M5",M6のどの配給者とプロデューサーはM0とM1に買収され、M2、M3、M4とM5を買収しましたか
 "Was a star , editor , and cinematographer of M4 and M5 a Spanish writer and director of M0 , M1 , and M2",M4とM5のある主演、編集者と撮影監督はM0、M1とM2のスペイン人の作家と監督でしたか
-"Was a cinematographer that M1 and M2 were founded by and M3 , M4 , and M5 were founded by M6 's spouse",M1とM2を創設し、M3、M4とM5を創設したある撮影監督はM6の配偶者でしたか
+"Was a cinematographer that M1 and M2 were founded by and M3 , M4 , and M5 were founded by M6 's spouse",M1とM2を創設し、M3、M4とM5を創設したある撮影監督はM6の配偶者ですか
 "Which cinematographer and star of M1 , M2 , and M3 wrote , directed , executive produced , and edited M0",M1、M2とM3のどの撮影監督と主演がM0を書き、監督し、エグゼクティブプロデュースし、編集しましたか
 "Which writer and cinematographer of M0 , M1 , M2 , and M3 married a person and influenced M4 and M5",M0、M1、M2とM3のどの作家と撮影監督が人と結婚し、M4とM5に影響しましたか
-"Was a cinematographer that M1 and M2 were directed by , executive produced by , edited by , and written by M3 's director",M1とM2を監督し、エグゼクティブプロデュースし、編集し、書いたある撮影監督はM3の監督でしたか
+"Was a cinematographer that M1 and M2 were directed by , executive produced by , edited by , and written by M3 's director",M1とM2を監督し、エグゼクティブプロデュースし、編集し、書いたある撮影監督はM3の監督ですか
 "Did a film director that M1 , M2 , and M3 were written by and were edited by marry and influence M4",M1、M2とM3を書き、編集したある映画監督はM4と結婚し、影響しましたか
 "What distributor and producer of M6 was acquired by M0 , M1 , M2 , and M3 and was acquired by M4 and M5",M6のどの配給者とプロデューサーがM0、M1、M2とM3に買収され、M4とM5に買収されましたか
 "What film directed by , produced by , and written by M3 , M4 , M5 , and M6 starred M1 and M2",M3、M4、M5とM6に監督され、プロデュースされ、書かれたどの映画がM1とM2に主演されましたか
