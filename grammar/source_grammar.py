@@ -352,14 +352,15 @@ whose -> 'whose'
 
 
 EN_source_original_grammar = """
-S -> NPQ VP Qmark
-S -> NPQ was Nominal Qmark
-S -> NPQ did NPV Qmark
-S -> was Nominal Vobl Qmark
-S -> NPQ Vobl Qmark
-S -> was Nominal Adj Qmark
-S -> was Nominal Nominal Qmark 
-S -> did Nominal VP Qmark
+S -> NPQ VP
+S -> NPQ was Nominal
+S -> NPQ did NPV
+S -> was Nominal Vobl 
+S -> NPQ Vobl 
+S -> was Nominal Adj 
+S -> was Nominal Nominal 
+S -> did Nominal VP
+
 NPV -> Nominal V 
 NPV -> Nominal VPrep
 VP -> V Nominal 
@@ -402,8 +403,8 @@ V -> Vx andV
 Vx -> V punctV
 Vx -> Vx punctV 
 andV -> conj V
-andV -> punct conj 
-V punctV -> punct V
+andV -> punct conj V 
+punctV -> punct V
 Vx -> Vx punctVPrep
 Vx -> V punctVPrep
 V -> Vx andVPrep
@@ -422,7 +423,7 @@ NPVx -> NPVx punctNPV
 andNPV -> conj NPV 
 andNPV -> punct conj NPV 
 punctNPV -> punct NPV
-V->FV
+V -> F V
 Nominal -> Name 
 Nominal -> DP
 Nominal -> commonNoun

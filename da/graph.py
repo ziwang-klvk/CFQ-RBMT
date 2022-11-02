@@ -1,14 +1,7 @@
 import networkx as nx
 import nltk
 
-from measure.utils import stack
-
-
-
-# TODO: define grammar
-rule_id = dict()
-for id, r in enumerate(gm.productions()):
-    rule_id[r] = f'r{id}'
+from da.utils import stack
 
 
 # def generate_DAG_from_grammar(grammar: str):
@@ -42,7 +35,7 @@ for id, r in enumerate(gm.productions()):
 #     return (b_head in a_productions)
 
 
-def generate_DAG_from_parse_tree(t: nltk.Tree) -> nx.DiGraph:
+def generate_DAG_from_parse_tree(t: nltk.Tree, rule_id: dict) -> nx.DiGraph:
     """
     The function convert a parse tree into a graph comprising the concerned grammar rules
     :param t: nltk parse Tree
@@ -66,6 +59,6 @@ def generate_DAG_from_parse_tree(t: nltk.Tree) -> nx.DiGraph:
     assert node_to_add_edge.is_empty()
     # check the DAG is correctly generated
     assert nx.is_directed_acyclic_graph(G)
-    assert nx.is_connected(G)
+    assert nx.is_weakly_connected(G)
 
     return G
