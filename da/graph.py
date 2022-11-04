@@ -38,6 +38,7 @@ from da.utils import stack
 def generate_DAG_from_parse_tree(t: nltk.Tree, rule_id: dict) -> nx.DiGraph:
     """
     The function convert a parse tree into a graph comprising the concerned grammar rules
+    UPDATE: The edges now involve the rule connections stored in `data` property.
     :param t: nltk parse Tree
     :return: a DAG converted from the given parse tree
     """
@@ -48,13 +49,15 @@ def generate_DAG_from_parse_tree(t: nltk.Tree, rule_id: dict) -> nx.DiGraph:
         G.add_node(id, rule = rule_id[r])
         if r.is_nonlexical():
             if id != 0:
-                G.add_edge(id, node_to_add_edge.pop())
+                popid = node_to_add_edge.pop()
+                G.add_edge(id, popid, connection = rule_id[r]+'_'+G.nodes[popid]['rule'])
             n_edges_to_add = len(r.rhs())
             for _ in range(n_edges_to_add):
                 node_to_add_edge.push(id)
         if r.is_lexical():
             # find the id to connect with
-            G.add_edge(id, node_to_add_edge.pop())
+            popid = node_to_add_edge.pop()
+            G.add_edge(id, popid, connection = rule_id[r]+'_'+G.nodes[popid]['rule'])
     # check all the necessary edges are added
     assert node_to_add_edge.is_empty()
     # check the DAG is correctly generated
