@@ -30,7 +30,9 @@ You can simply clone the repository recursively to download these modules:
 
 #### Submodules
 
-`URBANS`: The URBANS module was revised from the [CFG-based version](https://github.com/pyurbans/urbans). Several new features are added to this library for practical usage. Primarily, they are:
+##### URBANS: 
+
+The URBANS module was revised from the [CFG-based version](https://github.com/pyurbans/urbans). Several new features are added to this library for practical usage. Primarily, they are:
 
 1. Tag-Word dictionary
 
@@ -71,9 +73,10 @@ You can simply clone the repository recursively to download these modules:
 
 
 
-`dbca`: The implemented [dbca splitter](https://github.com/ronentk/dbca-splitter). Since it was not completely implemented, we modified it with new features.
+##### dbca: 
+The implemented [dbca splitter](https://github.com/ronentk/dbca-splitter). Since it was not completely implemented, we modified it with new features.
 
-#### Main files
+#### Dataset generation
 
 `pipeline`: Involves codes and related files used for grammar development, translation assessment, result analysis and etc.
 
@@ -89,11 +92,13 @@ You can simply clone the repository recursively to download these modules:
 
 
 
+
 `grammar`: Involves developed EN-JP transduction grammar.
 
 ​		|_______________ `source_grammar.py`, `transduction_rule.py`, `dictionary.py`: Involves variables of the transduction grammar.
 
 ​		|_______________ `postproc.py`: Involves rules for post-processing.
+
 
 
 
@@ -103,6 +108,7 @@ You can simply clone the repository recursively to download these modules:
 #### DBCA (In progress)
 
 `da`:
+
 ​		|_______________ `graph.py`: Methods to convert parse trees into DAG.
 
 ​		|_______________ `assessment.py`: Involves class `GrammarDBCAssessor` inherited from `DBCASplitter`.
