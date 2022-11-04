@@ -133,6 +133,7 @@ dmypy.json
 *.png
 *.csv
 # mcwq dataset
+*/mcwq
 /mcwq
 
 .idea/
