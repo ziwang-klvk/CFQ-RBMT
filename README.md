@@ -111,4 +111,4 @@ The implemented [dbca splitter](https://github.com/ronentk/dbca-splitter). Since
 
 ​		|_______________ `graph.py`: Methods to convert parse trees into DAG.
 
-​		|_______________ `assessment.py`: Involves class `GrammarDBCAssessor` inherited from `DBCASplitter`.
+​		|_______________ `assessment.py`: Involves class `GrammarDBCAssessor` which can parse the text, convert trees into graphs and using `DBCASplitter` to measure divergence.
