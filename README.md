@@ -4,9 +4,9 @@ The implementation of a Rule-Based Machine Translation (RBMT) framework (and rel
 
 Simple descriptions of the up-to-date files are given here, further elaboration can be found in my report :).
 
-### Requirement
+## Requirement
 
-##### Dataset generation
+#### Dataset generation
 
 * URBANS 
 
@@ -14,7 +14,7 @@ Simple descriptions of the up-to-date files are given here, further elaboration 
 
 * NLTK
 
-##### Compound Assessment (In progress)
+#### Compound Assessment (In progress)
 
 * dbca
 
@@ -26,11 +26,11 @@ You can simply clone the repository recursively to download these modules:
 
 `git clone --recursive https://github.com/ziwang-klvk/CFQ-RBMT.git`
 
-### Structure
+## Structure
 
-#### Submodules
+### Submodules
 
-##### URBANS: 
+#### URBANS: 
 
 The URBANS module was revised from the [CFG-based version](https://github.com/pyurbans/urbans). Several new features are added to this library for practical usage. Primarily, they are:
 
@@ -73,10 +73,10 @@ The URBANS module was revised from the [CFG-based version](https://github.com/py
 
 
 
-##### dbca: 
+#### dbca: 
 The implemented [dbca splitter](https://github.com/ronentk/dbca-splitter). Since it was not completely implemented, we modified it with new features.
 
-#### Dataset generation
+### Dataset generation
 
 `pipeline`: Involves codes and related files used for grammar development, translation assessment, result analysis and etc.
 
@@ -105,7 +105,7 @@ The implemented [dbca splitter](https://github.com/ronentk/dbca-splitter). Since
 `dataset_generator.py`: The main file for dataset generation. Simply run this script to traverse `*.en.txt` files in `./mcwq/official` and generate `./jcwq` correspondingly.
 
 
-#### DBCA (In progress)
+### DBCA (In progress)
 
 `da`: A module supporting [DBCA](https://arxiv.org/pdf/1912.09713v2.pdf).
 
