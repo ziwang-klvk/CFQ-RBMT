@@ -32,7 +32,7 @@ You can simply clone the repository recursively to download these modules:
 
 #### URBANS: 
 
-The URBANS module was revised from the [CFG-based version](https://github.com/pyurbans/urbans). Several new features are added to this library for practical usage. Primarily, they are:
+The URBANS module was revised from the [CFG-based version](https://github.com/pyurbans/urbans), a Universal Rule-Based Machine Translation toolkit. Several new features are added to this library for practical usage. Primarily, they are:
 
 1. Tag-Word dictionary
 
@@ -74,7 +74,7 @@ The URBANS module was revised from the [CFG-based version](https://github.com/py
 
 
 #### dbca: 
-The implemented [dbca splitter](https://github.com/ronentk/dbca-splitter). Since it was not completely implemented, we modified it with new features.
+The implemented [dbca splitter](https://github.com/ronentk/dbca-splitter) (Distribution-Based Compound Assessment, a method proposed by CFQ paper to systematically measure atom/compound divergence). Since it was not completely implemented, we modified it with new features.
 
 ### Dataset generation
 
