@@ -10,16 +10,17 @@ from grammar.transduction_rule import src_to_target_grammar
 from grammar.postproc import post_processing, pref_pattern
 
 
+
 ROOT_PATH = "pipeline/mcwq/official"
 SAVE_PATH = "jcwq"
 
-def pipeline(sentences: list or str):
+def pipeline(sentences: list or str, tracker: bool):
     post_processor = post_processing()
 
     e2j_translator = urbans.Translator(src_grammar=src_grammar,
                                        src_to_tgt_grammar=src_to_target_grammar,
                                        src_to_tgt_dictionary=dic_en2jp,
-                                       tracker=True
+                                       tracker=tracker
                                        )
 
     translation, trans_map = e2j_translator.translate(sentences, remove_space=True, prefered_pattern=pref_pattern)
@@ -85,6 +86,8 @@ def translate_file_en2jp(root_path: str, save_path: str) -> None:
     # save meta data
     with open(os.path.join(save_path, 'meta.json'), 'w') as fmeta:
         json.dump(text_meta, fmeta)
+
+
 
 def save_rule_set(save_path: str):
     rule_set = {'source_grammar':src_grammar, 
