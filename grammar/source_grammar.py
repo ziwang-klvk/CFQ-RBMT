@@ -485,3 +485,152 @@ was -> 'was' | 'were' | 'Was' | 'Were'
 R -> 'that'
 whose -> 'whose'
 """
+
+
+
+
+
+# NominalSub  VPrepOrg
+EN_source_transduction_grammar_ZH = """
+S -> NPQ VP
+S -> NPQ was Nominal
+S -> NPQ did NPV
+S -> was Nominal Vobl 
+S -> NPQ Vobl 
+S -> was Nominal Adj 
+S -> was NominalSub Nominal
+S -> did Nominal VP
+
+NPV -> Nominal V 
+NPV -> Nominal VPrep
+
+
+
+VP -> V Nominal 
+VP -> was Vobl 
+VPrep -> was VPrep 
+VPrep -> V by
+
+
+Vobl -> VPrep Nominal 
+NPQ -> WhW Nominal 
+NPQ -> WhW role caseO
+commonNoun -> commonNoun RC
+RC -> Vobl
+RC -> R VP
+RC -> R NPV
+RC -> whose role VP
+
+VP -> VP andVP
+VP -> VPx andVP
+VPx -> VP punctVP 
+VPx -> VPx punctVP 
+andVP -> conj VP 
+andVP -> punct conj VP 
+punctVP -> punct VP
+
+
+Vobl -> Vobl andVobl
+Vobl -> Voblx andVobl 
+Voblx -> Vobl punctVobl 
+Voblx -> Voblx punctVobl 
+andVobl -> conj Vobl 
+andVobl -> punct conj Vobl 
+punctVobl -> punct Vobl
+
+
+VPrep -> VPrep andVPrep 
+VPrep -> VPrepX andVPrep 
+VPrepX -> VPrep punctVPrep 
+VPrepX -> VPrepX punctVPrep 
+andVPrep -> conj VPrep 
+andVPrep -> punct conj VPrep 
+punctVPrep -> punct VPrep
+
+V -> V andV
+V -> Vx andV
+Vx -> V punctV
+Vx -> Vx punctV 
+andV -> conj V
+andV -> punct conj V 
+punctV -> punct V
+Vx -> Vx punctVPrep
+Vx -> V punctVPrep
+V -> Vx andVPrep
+V -> V andVPrep
+VPrep -> VPrep andV 
+VPrep -> VPrepX andV 
+VPrepX -> VPrep punctV 
+VPrepX -> VPrepX punctV
+
+
+
+NPV -> NPV andNPV 
+NPV -> NPVx andNPV 
+NPVx -> NPV punctNPV 
+NPVx -> NPVx punctNPV 
+andNPV -> conj NPV 
+andNPV -> punct conj NPV 
+punctNPV -> punct NPV
+V -> F V
+Nominal -> Name 
+Nominal -> DP
+Nominal -> commonNoun
+DP -> caseS role 
+caseS -> DP pS 
+caseS -> Name pS 
+DP -> det role caseO 
+caseO -> of DP 
+caseO -> of Name
+DP -> det commonNoun
+Name -> Name andName 
+Name -> Namex andName 
+Namex -> Name punctName 
+Namex -> Namex punctName 
+andName -> conj Name 
+andName -> punct conj Name 
+punctName -> punct Name
+commonNoun -> commonNoun andCommonNoun
+commonNoun -> commonNounx andCommonNoun
+commonNounx -> commonNoun punctCommonNoun
+commonNounx -> commonNounx punctCom- monNoun
+andCommonNoun -> conj commonNoun 
+andCommonNoun -> punct conj commonNoun 
+punctCommonNoun -> punct commonNoun
+role -> role androle
+role -> rolex androle 
+rolex -> role punctrole 
+rolex -> rolex punctrole 
+androle -> conj role 
+androle -> punct conj role
+
+punctrole -> punct role
+commonNoun -> F commonNoun 
+role -> F role
+role -> Cnt of nat
+commonNoun -> P commonNoun
+commonNoun -> Adj commonNoun 
+role -> Adj role
+
+punct -> ","
+Cnt -> 'country'
+nat -> 'nationality'
+P -> 'production'
+F -> 'film' | 'art' | 'executive' | 'costume'
+V -> 'direct' | 'produce' | 'edit' | 'married' | 'produced' | 'starred' | 'employ' | 'written' | 'edited' | 'marry' | 'distribute' | 'played' | 'influenced' | 'employed' | 'acquire' | 'acquired' | 'produce' | 'directed' | 'wrote' | 'influence' | 'found' | 'play' | 'star' | 'founded' | 'write' | 'direct' | 'distributed'
+Name -> 'M0' | 'M1' | 'M2' | 'M3' | 'M4' | 'M5' | 'M6' | 'M7' | 'M8' | 'M9'
+commonNoun -> 'character' | 'person' | 'composer' | 'prequel' | 'director' | 'writer' | 'company' | 'actor' | 'designer' | 'founder' | 'sequel' | 'producer' | 'spouse' | 'child' | 'editor' | 'employer' | 'employee' | 'distributor' | 'sibling' | 'star' | 'parent' | 'cinematographer' | 'screenwriter' | 'film'
+role -> 'character' | 'person' | 'composer' | 'prequel' | 'director' | 'writer' | 'company' | 'actor' | 'designer' | 'founder' | 'sequel' | 'producer' | 'spouse' | 'child' | 'editor' | 'employer' | 'employee' | 'distributor' | 'sibling' | 'star' | 'parent' | 'cinematographer' | 'screenwriter' | 'film'
+NPQ -> 'who' | 'what' | 'Who' | 'What'
+WhW -> 'What' | 'Which' | 'what' | 'which'
+did -> 'did' | 'Did'
+conj -> 'and'
+pS -> "'s"
+of -> 'of'
+det -> 'a' | 'an'
+by -> 'by'
+Adj -> 'female' | 'American' | 'French' | 'Italian' | 'male' | 'Swedish' | 'Canadian' | 'British' | 'Spanish' | 'Mexican' | 'Chinese' | 'German' | 'American' | 'Dutch' | 'Japanese'
+was -> 'was' | 'were' | 'Was' | 'Were'
+R -> 'that'
+whose -> 'whose'
+"""
