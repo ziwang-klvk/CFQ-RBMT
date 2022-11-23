@@ -392,4 +392,69 @@ dic_en2jp = {'V': dic_V,
 
 
 
+"""----------ZH----------"""
+
+
+punct -> ","
+Cnt -> 'country'
+nat -> 'nationality'
+P -> 'production'
+F -> 'film' | 'art' | 'executive' | 'costume'
+V -> 'direct' | 'produce' | 'edit' | 'married' | 'produced' | 'starred' | 'employ' | 'written' | 'edited' | 'marry' | 'distribute' | 'played' | 'influenced' | 'employed' | 'acquire' | 'acquired' | 'produce' | 'directed' | 'wrote' | 'influence' | 'found' | 'play' | 'star' | 'founded' | 'write' | 'direct' | 'distributed'
+Name -> 'M0' | 'M1' | 'M2' | 'M3' | 'M4' | 'M5' | 'M6' | 'M7' | 'M8' | 'M9'
+commonNoun -> 'character' | 'person' | 'composer' | 'prequel' | 'director' | 'writer' | 'company' | 'actor' | 'designer' | 'founder' | 'sequel' | 'producer' | 'spouse' | 'child' | 'editor' | 'employer' | 'employee' | 'distributor' | 'sibling' | 'star' | 'parent' | 'cinematographer' | 'screenwriter' | 'film'
+commonNounHEAD -> 'character' | 'person' | 'composer' | 'prequel' | 'director' | 'writer' | 'company' | 'actor' | 'designer' | 'founder' | 'sequel' | 'producer' | 'spouse' | 'child' | 'editor' | 'employer' | 'employee' | 'distributor' | 'sibling' | 'star' | 'parent' | 'cinematographer' | 'screenwriter' | 'film'
+role -> 'character' | 'person' | 'composer' | 'prequel' | 'director' | 'writer' | 'company' | 'actor' | 'designer' | 'founder' | 'sequel' | 'producer' | 'spouse' | 'child' | 'editor' | 'employer' | 'employee' | 'distributor' | 'sibling' | 'star' | 'parent' | 'cinematographer' | 'screenwriter' | 'film'
+roleHEAD -> 'character' | 'person' | 'composer' | 'prequel' | 'director' | 'writer' | 'company' | 'actor' | 'designer' | 'founder' | 'sequel' | 'producer' | 'spouse' | 'child' | 'editor' | 'employer' | 'employee' | 'distributor' | 'sibling' | 'star' | 'parent' | 'cinematographer' | 'screenwriter' | 'film'
+NPQ -> 'who' | 'what' | 'Who' | 'What'
+WhW -> 'What' | 'Which' | 'what' | 'which'
+did -> 'did' | 'Did'
+conj -> 'and'
+pS -> "'s"
+of -> 'of'
+det -> 'a' | 'an'
+detSub -> 'a' | 'an'
+by -> 'by'
+Adj -> 'female' | 'American' | 'French' | 'Italian' | 'male' | 'Swedish' | 'Canadian' | 'British' | 'Spanish' | 'Mexican' | 'Chinese' | 'German' | 'American' | 'Dutch' | 'Japanese'
+was -> 'was' | 'were' | 'Was' | 'Were'
+R -> 'that'
+whose -> 'whose'
+
+
+zh_dic_punct = {",": "，"}
+zh_dic_Cnt = {'country': '国'}
+zh_dic_nat = {'nationality': '国籍'}
+zh_dic_P = {'production': '制片'}
+
+zh_dic_F = {'film': '电影',
+            'art': '艺术',
+            'executive':'执行',
+            'costume':'服装'}
+
+zh_dic_V = {'direct':'执导',
+            'produce': '制作',
+            'edit': '剪辑',
+            'married': '结婚',
+            'produced': '制作',
+            'starred': '',
+            'employ': '雇佣',
+            'written': '编写',
+            'edited': '剪辑',
+            'marry': '结婚',
+            'distribute': '发行',
+            'played': '出演',
+            'influenced': '影响',
+            'employed': '雇佣',
+            'acquire': '收购',
+            'acquired': '收购',
+            'directed': '执导',
+            'wrote': '编写',
+            'influence': '影响',
+            'found': '创建',
+            'play': '出演',
+            'star': '',
+            'founded': '创建',
+            'write': '编写',
+            'distributed': '发行'}
+
 

@@ -495,11 +495,14 @@ EN_source_transduction_grammar_ZH = """
 S -> NPQ VP
 S -> NPQ was Nominal
 S -> NPQ did NPV
-S -> was Nominal Vobl 
+S -> was NominalSub Vobl 
 S -> NPQ Vobl 
-S -> was Nominal Adj 
+S -> was NominalSub Adj 
 S -> was NominalSub Nominal
-S -> did Nominal VP
+S -> did NominalSub VP
+
+
+
 
 NPV -> Nominal V 
 NPV -> Nominal VPrep
@@ -572,10 +575,20 @@ NPVx -> NPVx punctNPV
 andNPV -> conj NPV 
 andNPV -> punct conj NPV 
 punctNPV -> punct NPV
+
+
 V -> F V
+
+
+
 Nominal -> Name 
 Nominal -> DP
 Nominal -> commonNoun
+
+NominalSub -> Name 
+NominalSub -> DPSub
+NominalSub -> commonNoun
+
 DP -> caseS role 
 caseS -> DP pS 
 caseS -> Name pS 
@@ -583,6 +596,12 @@ DP -> det role caseO
 caseO -> of DP 
 caseO -> of Name
 DP -> det commonNoun
+
+DPSub -> caseS role 
+DPSub -> detSub role caseO 
+DPSub -> detSub commonNoun
+
+
 Name -> Name andName 
 Name -> Namex andName 
 Namex -> Name punctName 
@@ -590,26 +609,29 @@ Namex -> Namex punctName
 andName -> conj Name 
 andName -> punct conj Name 
 punctName -> punct Name
+
 commonNoun -> commonNoun andCommonNoun
 commonNoun -> commonNounx andCommonNoun
 commonNounx -> commonNoun punctCommonNoun
-commonNounx -> commonNounx punctCom- monNoun
+commonNounx -> commonNounx punctCommonNoun
 andCommonNoun -> conj commonNoun 
 andCommonNoun -> punct conj commonNoun 
 punctCommonNoun -> punct commonNoun
+
+
 role -> role androle
 role -> rolex androle 
 rolex -> role punctrole 
 rolex -> rolex punctrole 
 androle -> conj role 
 androle -> punct conj role
-
 punctrole -> punct role
-commonNoun -> F commonNoun 
-role -> F role
+
+commonNoun -> F commonNounHEAD
+role -> F roleHEAD
 role -> Cnt of nat
-commonNoun -> P commonNoun
-commonNoun -> Adj commonNoun 
+commonNoun -> P commonNounHEAD
+commonNoun -> Adj commonNoun
 role -> Adj role
 
 punct -> ","
@@ -620,7 +642,9 @@ F -> 'film' | 'art' | 'executive' | 'costume'
 V -> 'direct' | 'produce' | 'edit' | 'married' | 'produced' | 'starred' | 'employ' | 'written' | 'edited' | 'marry' | 'distribute' | 'played' | 'influenced' | 'employed' | 'acquire' | 'acquired' | 'produce' | 'directed' | 'wrote' | 'influence' | 'found' | 'play' | 'star' | 'founded' | 'write' | 'direct' | 'distributed'
 Name -> 'M0' | 'M1' | 'M2' | 'M3' | 'M4' | 'M5' | 'M6' | 'M7' | 'M8' | 'M9'
 commonNoun -> 'character' | 'person' | 'composer' | 'prequel' | 'director' | 'writer' | 'company' | 'actor' | 'designer' | 'founder' | 'sequel' | 'producer' | 'spouse' | 'child' | 'editor' | 'employer' | 'employee' | 'distributor' | 'sibling' | 'star' | 'parent' | 'cinematographer' | 'screenwriter' | 'film'
+commonNounHEAD -> 'character' | 'person' | 'composer' | 'prequel' | 'director' | 'writer' | 'company' | 'actor' | 'designer' | 'founder' | 'sequel' | 'producer' | 'spouse' | 'child' | 'editor' | 'employer' | 'employee' | 'distributor' | 'sibling' | 'star' | 'parent' | 'cinematographer' | 'screenwriter' | 'film'
 role -> 'character' | 'person' | 'composer' | 'prequel' | 'director' | 'writer' | 'company' | 'actor' | 'designer' | 'founder' | 'sequel' | 'producer' | 'spouse' | 'child' | 'editor' | 'employer' | 'employee' | 'distributor' | 'sibling' | 'star' | 'parent' | 'cinematographer' | 'screenwriter' | 'film'
+roleHEAD -> 'character' | 'person' | 'composer' | 'prequel' | 'director' | 'writer' | 'company' | 'actor' | 'designer' | 'founder' | 'sequel' | 'producer' | 'spouse' | 'child' | 'editor' | 'employer' | 'employee' | 'distributor' | 'sibling' | 'star' | 'parent' | 'cinematographer' | 'screenwriter' | 'film'
 NPQ -> 'who' | 'what' | 'Who' | 'What'
 WhW -> 'What' | 'Which' | 'what' | 'which'
 did -> 'did' | 'Did'
@@ -628,6 +652,7 @@ conj -> 'and'
 pS -> "'s"
 of -> 'of'
 det -> 'a' | 'an'
+detSub -> 'a' | 'an'
 by -> 'by'
 Adj -> 'female' | 'American' | 'French' | 'Italian' | 'male' | 'Swedish' | 'Canadian' | 'British' | 'Spanish' | 'Mexican' | 'Chinese' | 'German' | 'American' | 'Dutch' | 'Japanese'
 was -> 'was' | 'were' | 'Was' | 'Were'
