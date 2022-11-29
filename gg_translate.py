@@ -4,7 +4,7 @@ import sys
 from tqdm import tqdm
 from google.cloud import translate_v2 as gg_translate
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/mac/Downloads/friendly-drake-365016-5060bb0f2dff.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = CREDENTIAL
 
 translate_client = gg_translate.Client()
 
