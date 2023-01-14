@@ -4,6 +4,10 @@ import sys
 from tqdm import tqdm
 from google.cloud import translate_v2 as gg_translate
 
+<<<<<<< HEAD
+=======
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = CREDENTIAL
+>>>>>>> 58924c88aa7ce1ef6e5492e6af03c1b7ef7298cd
 
 
 

@@ -140,3 +140,9 @@ dmypy.json
 .DS_store
 
 pipeline/google_translate.ipynb
+
+analysis.ipynb
+
+dataset.json
+
+gt_data*
