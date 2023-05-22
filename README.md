@@ -1,8 +1,9 @@
-# CFQ-RBMT
+# MCWQ-R
 
-The implementation of a Rule-Based Machine Translation (RBMT) framework (and related supportive toolkits) for questions generated as in the [CFQ paper](https://arxiv.org/pdf/1912.09713v2.pdf). An instance in Japanese was created and named Japanese Compositional Wikidata Questions (JCWQ). This project is also largely based on the [MCWQ dataset](https://github.com/coastalcph/seq2sparql) and can be regarded as its branch.
+Repo for the paper [On Evaluating Multilingual Compositional Generalization with Translated Datasets]. 
+Under construction.
 
-Simple descriptions of the up-to-date files are given here, further elaboration can be found in my report :).
+The implementation of a Rule-Based Machine Translation (RBMT) framework (and related supportive toolkits) for questions generated as in the [CFQ paper](https://arxiv.org/pdf/1912.09713v2.pdf). This project is also largely based on the [MCWQ dataset](https://github.com/coastalcph/seq2sparql) and can be regarded as its branch.
 
 ## Requirement
 
@@ -13,18 +14,6 @@ Simple descriptions of the up-to-date files are given here, further elaboration 
   The modified URBANS is added as a submodule
 
 * NLTK
-
-#### Compound Assessment (In progress)
-
-* dbca
-
-  The modified dbca module is added as a submodule
-
-* networkx 
-
-You can simply clone the repository recursively to download these modules:
-
-`git clone --recursive https://github.com/ziwang-klvk/CFQ-RBMT.git`
 
 ## Structure
 
@@ -72,10 +61,6 @@ The URBANS module was revised from the [CFG-based version](https://github.com/py
 3. Post-processing for disambiguation
 
 
-
-#### dbca: 
-The implemented [dbca splitter](https://github.com/ronentk/dbca-splitter) (Distribution-Based Compound Assessment, a method proposed by CFQ paper to systematically measure atom/compound divergence). Since it was not completely implemented, we modified it with new features.
-
 ### Dataset generation
 
 `pipeline`: Involves codes and related files used for grammar development, translation assessment, result analysis and etc.
@@ -100,15 +85,4 @@ The implemented [dbca splitter](https://github.com/ronentk/dbca-splitter) (Distr
 ​		|_______________ `postproc.py`: Involves rules for post-processing.
 
 
-
-
 `dataset_generator.py`: The main file for dataset generation. Simply run this script to traverse `*.en.txt` files in `./mcwq/official` and generate `./jcwq` correspondingly.
-
-
-### DBCA (In progress)
-
-`da`: A module supporting [DBCA](https://arxiv.org/pdf/1912.09713v2.pdf).
-
-​		|_______________ `graph.py`: Methods to convert parse trees into DAG.
-
-​		|_______________ `assessment.py`: Involves class `GrammarDBCAssessor` which can parse the text, convert trees into graphs and using `DBCASplitter` to measure divergence.
