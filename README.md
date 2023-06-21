@@ -1,7 +1,7 @@
 # MCWQ-R
 
-Repo for the paper [On Evaluating Multilingual Compositional Generalization with Translated Datasets]. 
-Under construction.
+Repo for the paper [On Evaluating Multilingual Compositional Generalization with Translated Datasets](https://arxiv.org/abs/2306.11420).
+The introduced MCWQ-R dataset can be found in the [`data`](https://github.com/ziwang-klvk/CFQ-RBMT/tree/main/data) folder. The remaining modules are under construction.
 
 The implementation of a Rule-Based Machine Translation (RBMT) framework (and related supportive toolkits) for questions generated as in the [CFQ paper](https://arxiv.org/pdf/1912.09713v2.pdf). This project is also largely based on the [MCWQ dataset](https://github.com/coastalcph/seq2sparql) and can be regarded as its branch.
 
